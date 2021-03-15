@@ -1,5 +1,4 @@
 |[Home](./index.md) |  [Frameworks](/pages/frameworks.md) |  [ZSE](https://github.com/jtcrum/zse)|
-|---|:---|:---|
 
 - - -
 
