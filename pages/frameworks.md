@@ -4,7 +4,7 @@
 <style>
 .button {
  width: 200px;
- test_align: center;
+ text_align: center;
  }
 </style>
 <button onclick="location.href='/pages/frameworks/ABW.md'" type="button">ABW</button>
