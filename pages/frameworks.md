@@ -1,6 +1,6 @@
 <head>
 <style>
-.button{
+.button {
  width: 200px;
  test_align: center;
  }
