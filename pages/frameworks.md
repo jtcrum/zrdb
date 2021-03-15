@@ -1,16 +1,12 @@
-<head>
+[Home](/zrdb) [Frameworks](/zrdb/pages/frameworks) [ZSE](https://github.com/jtcrum/zse){:target="_blank" rel="noopener"}
+
+- - - 
 <style>
 .button {
  width: 200px;
  test_align: center;
  }
 </style>
-</head>
-
-[Home](/zrdb) [Frameworks](/zrdb/pages/frameworks) [ZSE](https://github.com/jtcrum/zse){:target="_blank" rel="noopener"}
-
-- - - 
-
 <button onclick="location.href='/pages/frameworks/ABW.md'" type="button">ABW</button>
 <button onclick="location.href='/pages/frameworks/ACO.md'" type="button">ACO</button>
 <button onclick="location.href='/pages/frameworks/AEI.md'" type="button">AEI</button>
