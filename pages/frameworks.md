@@ -7,7 +7,7 @@
  text_align: center;
  }
 </style>
-<button onclick="location.href='/pages/frameworks/ABW.md'" width: 200px type="button">ABW</button>
+<button onclick="location.href='/pages/frameworks/ABW.md'" width=200px type="button">ABW</button>
 <button onclick="location.href='/pages/frameworks/ACO.md'" type="button">ACO</button>
 <button onclick="location.href='/pages/frameworks/AEI.md'" type="button">AEI</button>
 <button onclick="location.href='/pages/frameworks/AEL.md'" type="button">AEL</button>
