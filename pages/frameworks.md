@@ -1,247 +1,247 @@
-[ABW](/pages/frameworks/ABW.md){: .btn .btn-blue}
-[ACO](/pages/frameworks/ACO.md){: .btn .btn-blue}
-[AEI](/pages/frameworks/AEI.md){: .btn .btn-blue}
-[AEL](/pages/frameworks/AEL.md){: .btn .btn-blue}
-[AEN](/pages/frameworks/AEN.md){: .btn .btn-blue}
-[AET](/pages/frameworks/AET.md){: .btn .btn-blue}
-[AFG](/pages/frameworks/AFG.md){: .btn .btn-blue}
-[AFI](/pages/frameworks/AFI.md){: .btn .btn-blue}
-[AFN](/pages/frameworks/AFN.md){: .btn .btn-blue}
-[AFO](/pages/frameworks/AFO.md){: .btn .btn-blue}
-[AFR](/pages/frameworks/AFR.md){: .btn .btn-blue}
-[AFS](/pages/frameworks/AFS.md){: .btn .btn-blue}
-[AFT](/pages/frameworks/AFT.md){: .btn .btn-blue}
-[AFV](/pages/frameworks/AFV.md){: .btn .btn-blue}
-[AFX](/pages/frameworks/AFX.md){: .btn .btn-blue}
-[AFY](/pages/frameworks/AFY.md){: .btn .btn-blue}
-[AHT](/pages/frameworks/AHT.md){: .btn .btn-blue}
-[ANA](/pages/frameworks/ANA.md){: .btn .btn-blue}
-[APC](/pages/frameworks/APC.md){: .btn .btn-blue}
-[APD](/pages/frameworks/APD.md){: .btn .btn-blue}
-[AST](/pages/frameworks/AST.md){: .btn .btn-blue}
-[ASV](/pages/frameworks/ASV.md){: .btn .btn-blue}
-[ATN](/pages/frameworks/ATN.md){: .btn .btn-blue}
-[ATO](/pages/frameworks/ATO.md){: .btn .btn-blue}
-[ATS](/pages/frameworks/ATS.md){: .btn .btn-blue}
-[ATT](/pages/frameworks/ATT.md){: .btn .btn-blue}
-[ATV](/pages/frameworks/ATV.md){: .btn .btn-blue}
-[AVE](/pages/frameworks/AVE.md){: .btn .btn-blue}
-[AVL](/pages/frameworks/AVL.md){: .btn .btn-blue}
-[AWO](/pages/frameworks/AWO.md){: .btn .btn-blue}
-[AWW](/pages/frameworks/AWW.md){: .btn .btn-blue}
-[BCT](/pages/frameworks/BCT.md){: .btn .btn-blue}
-[BEC](/pages/frameworks/BEC.md){: .btn .btn-blue}
-[BIK](/pages/frameworks/BIK.md){: .btn .btn-blue}
-[BOF](/pages/frameworks/BOF.md){: .btn .btn-blue}
-[BOG](/pages/frameworks/BOG.md){: .btn .btn-blue}
-[BOZ](/pages/frameworks/BOZ.md){: .btn .btn-blue}
-[BPH](/pages/frameworks/BPH.md){: .btn .btn-blue}
-[BRE](/pages/frameworks/BRE.md){: .btn .btn-blue}
-[BSV](/pages/frameworks/BSV.md){: .btn .btn-blue}
-[CAN](/pages/frameworks/CAN.md){: .btn .btn-blue}
-[CAS](/pages/frameworks/CAS.md){: .btn .btn-blue}
-[CDO](/pages/frameworks/CDO.md){: .btn .btn-blue}
-[CFI](/pages/frameworks/CFI.md){: .btn .btn-blue}
-[CGF](/pages/frameworks/CGF.md){: .btn .btn-blue}
-[CGS](/pages/frameworks/CGS.md){: .btn .btn-blue}
-[CHA](/pages/frameworks/CHA.md){: .btn .btn-blue}
-[CHI](/pages/frameworks/CHI.md){: .btn .btn-blue}
-[CLO](/pages/frameworks/CLO.md){: .btn .btn-blue}
-[CON](/pages/frameworks/CON.md){: .btn .btn-blue}
-[CSV](/pages/frameworks/CSV.md){: .btn .btn-blue}
-[CZP](/pages/frameworks/CZP.md){: .btn .btn-blue}
-[DAC](/pages/frameworks/DAC.md){: .btn .btn-blue}
-[DDR](/pages/frameworks/DDR.md){: .btn .btn-blue}
-[DFO](/pages/frameworks/DFO.md){: .btn .btn-blue}
-[DFT](/pages/frameworks/DFT.md){: .btn .btn-blue}
-[DOH](/pages/frameworks/DOH.md){: .btn .btn-blue}
-[DON](/pages/frameworks/DON.md){: .btn .btn-blue}
-[EAB](/pages/frameworks/EAB.md){: .btn .btn-blue}
-[EDI](/pages/frameworks/EDI.md){: .btn .btn-blue}
-[EEI](/pages/frameworks/EEI.md){: .btn .btn-blue}
-[EMT](/pages/frameworks/EMT.md){: .btn .btn-blue}
-[EON](/pages/frameworks/EON.md){: .btn .btn-blue}
-[EPI](/pages/frameworks/EPI.md){: .btn .btn-blue}
-[ERI](/pages/frameworks/ERI.md){: .btn .btn-blue}
-[ESV](/pages/frameworks/ESV.md){: .btn .btn-blue}
-[ETR](/pages/frameworks/ETR.md){: .btn .btn-blue}
-[EUO](/pages/frameworks/EUO.md){: .btn .btn-blue}
-[EWS](/pages/frameworks/EWS.md){: .btn .btn-blue}
-[EZT](/pages/frameworks/EZT.md){: .btn .btn-blue}
-[FAR](/pages/frameworks/FAR.md){: .btn .btn-blue}
-[FAU](/pages/frameworks/FAU.md){: .btn .btn-blue}
-[FER](/pages/frameworks/FER.md){: .btn .btn-blue}
-[FRA](/pages/frameworks/FRA.md){: .btn .btn-blue}
-[GIS](/pages/frameworks/GIS.md){: .btn .btn-blue}
-[GIU](/pages/frameworks/GIU.md){: .btn .btn-blue}
-[GME](/pages/frameworks/GME.md){: .btn .btn-blue}
-[GON](/pages/frameworks/GON.md){: .btn .btn-blue}
-[GOO](/pages/frameworks/GOO.md){: .btn .btn-blue}
-[HEU](/pages/frameworks/HEU.md){: .btn .btn-blue}
-[IFO](/pages/frameworks/IFO.md){: .btn .btn-blue}
-[IFR](/pages/frameworks/IFR.md){: .btn .btn-blue}
-[IFT](/pages/frameworks/IFT.md){: .btn .btn-blue}
-[IFU](/pages/frameworks/IFU.md){: .btn .btn-blue}
-[IFW](/pages/frameworks/IFW.md){: .btn .btn-blue}
-[IFY](/pages/frameworks/IFY.md){: .btn .btn-blue}
-[IHW](/pages/frameworks/IHW.md){: .btn .btn-blue}
-[IMF](/pages/frameworks/IMF.md){: .btn .btn-blue}
-[IRN](/pages/frameworks/IRN.md){: .btn .btn-blue}
-[IRR](/pages/frameworks/IRR.md){: .btn .btn-blue}
-[IRY](/pages/frameworks/IRY.md){: .btn .btn-blue}
-[ISV](/pages/frameworks/ISV.md){: .btn .btn-blue}
-[ITE](/pages/frameworks/ITE.md){: .btn .btn-blue}
-[ITG](/pages/frameworks/ITG.md){: .btn .btn-blue}
-[ITH](/pages/frameworks/ITH.md){: .btn .btn-blue}
-[ITR](/pages/frameworks/ITR.md){: .btn .btn-blue}
-[ITT](/pages/frameworks/ITT.md){: .btn .btn-blue}
-[ITV](/pages/frameworks/ITV.md){: .btn .btn-blue}
-[ITW](/pages/frameworks/ITW.md){: .btn .btn-blue}
-[IWR](/pages/frameworks/IWR.md){: .btn .btn-blue}
-[IWS](/pages/frameworks/IWS.md){: .btn .btn-blue}
-[IWV](/pages/frameworks/IWV.md){: .btn .btn-blue}
-[IWW](/pages/frameworks/IWW.md){: .btn .btn-blue}
-[JBW](/pages/frameworks/JBW.md){: .btn .btn-blue}
-[JNT](/pages/frameworks/JNT.md){: .btn .btn-blue}
-[JOZ](/pages/frameworks/JOZ.md){: .btn .btn-blue}
-[JRY](/pages/frameworks/JRY.md){: .btn .btn-blue}
-[JSN](/pages/frameworks/JSN.md){: .btn .btn-blue}
-[JSR](/pages/frameworks/JSR.md){: .btn .btn-blue}
-[JST](/pages/frameworks/JST.md){: .btn .btn-blue}
-[JSW](/pages/frameworks/JSW.md){: .btn .btn-blue}
-[KFI](/pages/frameworks/KFI.md){: .btn .btn-blue}
-[LAU](/pages/frameworks/LAU.md){: .btn .btn-blue}
-[LEV](/pages/frameworks/LEV.md){: .btn .btn-blue}
-[LIO](/pages/frameworks/LIO.md){: .btn .btn-blue}
-[LIT](/pages/frameworks/LIT.md){: .btn .btn-blue}
-[LOS](/pages/frameworks/LOS.md){: .btn .btn-blue}
-[LOV](/pages/frameworks/LOV.md){: .btn .btn-blue}
-[LTA](/pages/frameworks/LTA.md){: .btn .btn-blue}
-[LTF](/pages/frameworks/LTF.md){: .btn .btn-blue}
-[LTJ](/pages/frameworks/LTJ.md){: .btn .btn-blue}
-[LTL](/pages/frameworks/LTL.md){: .btn .btn-blue}
-[LTN](/pages/frameworks/LTN.md){: .btn .btn-blue}
-[MAR](/pages/frameworks/MAR.md){: .btn .btn-blue}
-[MAZ](/pages/frameworks/MAZ.md){: .btn .btn-blue}
-[MEI](/pages/frameworks/MEI.md){: .btn .btn-blue}
-[MEL](/pages/frameworks/MEL.md){: .btn .btn-blue}
-[MEP](/pages/frameworks/MEP.md){: .btn .btn-blue}
-[MER](/pages/frameworks/MER.md){: .btn .btn-blue}
-[MFI](/pages/frameworks/MFI.md){: .btn .btn-blue}
-[MFS](/pages/frameworks/MFS.md){: .btn .btn-blue}
-[MON](/pages/frameworks/MON.md){: .btn .btn-blue}
-[MOR](/pages/frameworks/MOR.md){: .btn .btn-blue}
-[MOZ](/pages/frameworks/MOZ.md){: .btn .btn-blue}
-[MRT](/pages/frameworks/MRT.md){: .btn .btn-blue}
-[MSE](/pages/frameworks/MSE.md){: .btn .btn-blue}
-[MSO](/pages/frameworks/MSO.md){: .btn .btn-blue}
-[MTF](/pages/frameworks/MTF.md){: .btn .btn-blue}
-[MTN](/pages/frameworks/MTN.md){: .btn .btn-blue}
-[MTT](/pages/frameworks/MTT.md){: .btn .btn-blue}
-[MTW](/pages/frameworks/MTW.md){: .btn .btn-blue}
-[MVY](/pages/frameworks/MVY.md){: .btn .btn-blue}
-[MWF](/pages/frameworks/MWF.md){: .btn .btn-blue}
-[MWW](/pages/frameworks/MWW.md){: .btn .btn-blue}
-[NAB](/pages/frameworks/NAB.md){: .btn .btn-blue}
-[NAT](/pages/frameworks/NAT.md){: .btn .btn-blue}
-[NES](/pages/frameworks/NES.md){: .btn .btn-blue}
-[NON](/pages/frameworks/NON.md){: .btn .btn-blue}
-[NPO](/pages/frameworks/NPO.md){: .btn .btn-blue}
-[NPT](/pages/frameworks/NPT.md){: .btn .btn-blue}
-[NSI](/pages/frameworks/NSI.md){: .btn .btn-blue}
-[OBW](/pages/frameworks/OBW.md){: .btn .btn-blue}
-[OFF](/pages/frameworks/OFF.md){: .btn .btn-blue}
-[OKO](/pages/frameworks/OKO.md){: .btn .btn-blue}
-[OSI](/pages/frameworks/OSI.md){: .btn .btn-blue}
-[OSO](/pages/frameworks/OSO.md){: .btn .btn-blue}
-[OWE](/pages/frameworks/OWE.md){: .btn .btn-blue}
-[PAR](/pages/frameworks/PAR.md){: .btn .btn-blue}
-[PAU](/pages/frameworks/PAU.md){: .btn .btn-blue}
-[PCR](/pages/frameworks/PCR.md){: .btn .btn-blue}
-[PHI](/pages/frameworks/PHI.md){: .btn .btn-blue}
-[PON](/pages/frameworks/PON.md){: .btn .btn-blue}
-[POR](/pages/frameworks/POR.md){: .btn .btn-blue}
-[POS](/pages/frameworks/POS.md){: .btn .btn-blue}
-[PSI](/pages/frameworks/PSI.md){: .btn .btn-blue}
-[PUN](/pages/frameworks/PUN.md){: .btn .btn-blue}
-[PWN](/pages/frameworks/PWN.md){: .btn .btn-blue}
-[PWO](/pages/frameworks/PWO.md){: .btn .btn-blue}
-[PWW](/pages/frameworks/PWW.md){: .btn .btn-blue}
-[RHO](/pages/frameworks/RHO.md){: .btn .btn-blue}
-[RON](/pages/frameworks/RON.md){: .btn .btn-blue}
-[RRO](/pages/frameworks/RRO.md){: .btn .btn-blue}
-[RSN](/pages/frameworks/RSN.md){: .btn .btn-blue}
-[RTE](/pages/frameworks/RTE.md){: .btn .btn-blue}
-[RTH](/pages/frameworks/RTH.md){: .btn .btn-blue}
-[RUT](/pages/frameworks/RUT.md){: .btn .btn-blue}
-[RWR](/pages/frameworks/RWR.md){: .btn .btn-blue}
-[RWY](/pages/frameworks/RWY.md){: .btn .btn-blue}
-[SAF](/pages/frameworks/SAF.md){: .btn .btn-blue}
-[SAO](/pages/frameworks/SAO.md){: .btn .btn-blue}
-[SAS](/pages/frameworks/SAS.md){: .btn .btn-blue}
-[SAT](/pages/frameworks/SAT.md){: .btn .btn-blue}
-[SAV](/pages/frameworks/SAV.md){: .btn .btn-blue}
-[SBE](/pages/frameworks/SBE.md){: .btn .btn-blue}
-[SBN](/pages/frameworks/SBN.md){: .btn .btn-blue}
-[SBS](/pages/frameworks/SBS.md){: .btn .btn-blue}
-[SBT](/pages/frameworks/SBT.md){: .btn .btn-blue}
-[SEW](/pages/frameworks/SEW.md){: .btn .btn-blue}
-[SFE](/pages/frameworks/SFE.md){: .btn .btn-blue}
-[SFF](/pages/frameworks/SFF.md){: .btn .btn-blue}
-[SFG](/pages/frameworks/SFG.md){: .btn .btn-blue}
-[SFH](/pages/frameworks/SFH.md){: .btn .btn-blue}
-[SFN](/pages/frameworks/SFN.md){: .btn .btn-blue}
-[SFO](/pages/frameworks/SFO.md){: .btn .btn-blue}
-[SFS](/pages/frameworks/SFS.md){: .btn .btn-blue}
-[SFW](/pages/frameworks/SFW.md){: .btn .btn-blue}
-[SGT](/pages/frameworks/SGT.md){: .btn .btn-blue}
-[SIV](/pages/frameworks/SIV.md){: .btn .btn-blue}
-[SOD](/pages/frameworks/SOD.md){: .btn .btn-blue}
-[SOF](/pages/frameworks/SOF.md){: .btn .btn-blue}
-[SOR](/pages/frameworks/SOR.md){: .btn .btn-blue}
-[SOS](/pages/frameworks/SOS.md){: .btn .btn-blue}
-[SOV](/pages/frameworks/SOV.md){: .btn .btn-blue}
-[SSF](/pages/frameworks/SSF.md){: .btn .btn-blue}
-[SSY](/pages/frameworks/SSY.md){: .btn .btn-blue}
-[STF](/pages/frameworks/STF.md){: .btn .btn-blue}
-[STI](/pages/frameworks/STI.md){: .btn .btn-blue}
-[STT](/pages/frameworks/STT.md){: .btn .btn-blue}
-[STW](/pages/frameworks/STW.md){: .btn .btn-blue}
-[SVR](/pages/frameworks/SVR.md){: .btn .btn-blue}
-[SVV](/pages/frameworks/SVV.md){: .btn .btn-blue}
-[SWY](/pages/frameworks/SWY.md){: .btn .btn-blue}
-[SZR](/pages/frameworks/SZR.md){: .btn .btn-blue}
-[TER](/pages/frameworks/TER.md){: .btn .btn-blue}
-[THO](/pages/frameworks/THO.md){: .btn .btn-blue}
-[TOL](/pages/frameworks/TOL.md){: .btn .btn-blue}
-[TON](/pages/frameworks/TON.md){: .btn .btn-blue}
-[TSC](/pages/frameworks/TSC.md){: .btn .btn-blue}
-[TUN](/pages/frameworks/TUN.md){: .btn .btn-blue}
-[UEI](/pages/frameworks/UEI.md){: .btn .btn-blue}
-[UFI](/pages/frameworks/UFI.md){: .btn .btn-blue}
-[UOS](/pages/frameworks/UOS.md){: .btn .btn-blue}
-[UOV](/pages/frameworks/UOV.md){: .btn .btn-blue}
-[UOZ](/pages/frameworks/UOZ.md){: .btn .btn-blue}
-[USI](/pages/frameworks/USI.md){: .btn .btn-blue}
-[UTL](/pages/frameworks/UTL.md){: .btn .btn-blue}
-[UWY](/pages/frameworks/UWY.md){: .btn .btn-blue}
-[VET](/pages/frameworks/VET.md){: .btn .btn-blue}
-[VFI](/pages/frameworks/VFI.md){: .btn .btn-blue}
-[VNI](/pages/frameworks/VNI.md){: .btn .btn-blue}
-[VSV](/pages/frameworks/VSV.md){: .btn .btn-blue}
-[WEI](/pages/frameworks/WEI.md){: .btn .btn-blue}
-[WEN](/pages/frameworks/WEN.md){: .btn .btn-blue}
-[YFI](/pages/frameworks/YFI.md){: .btn .btn-blue}
-[YUG](/pages/frameworks/YUG.md){: .btn .btn-blue}
-[ZON](/pages/frameworks/ZON.md){: .btn .btn-blue}
-[BEA](/pages/frameworks/BEA.md){: .btn .btn-blue}
-[CTH](/pages/frameworks/CTH.md){: .btn .btn-blue}
-[EWT](/pages/frameworks/EWT.md){: .btn .btn-blue}
-[ITN](/pages/frameworks/ITN.md){: .btn .btn-blue}
-[MRE](/pages/frameworks/MRE.md){: .btn .btn-blue}
-[PCS](/pages/frameworks/PCS.md){: .btn .btn-blue}
-[SFV](/pages/frameworks/SFV.md){: .btn .btn-blue}
-[SSO](/pages/frameworks/SSO.md){: .btn .btn-blue}
-[STO](/pages/frameworks/STO.md){: .btn .btn-blue}
-[SVY](/pages/frameworks/SVY.md){: .btn .btn-blue}
-[UOE](/pages/frameworks/UOE.md){: .btn .btn-blue}
+<button onclick="/pages/frameworks/ABW.md" type="button" name="button" class="btn">ABW</button>
+<button onclick="/pages/frameworks/ACO.md" type="button" name="button" class="btn">ACO</button>
+<button onclick="/pages/frameworks/AEI.md" type="button" name="button" class="btn">AEI</button>
+<button onclick="/pages/frameworks/AEL.md" type="button" name="button" class="btn">AEL</button>
+<button onclick="/pages/frameworks/AEN.md" type="button" name="button" class="btn">AEN</button>
+<button onclick="/pages/frameworks/AET.md" type="button" name="button" class="btn">AET</button>
+<button onclick="/pages/frameworks/AFG.md" type="button" name="button" class="btn">AFG</button>
+<button onclick="/pages/frameworks/AFI.md" type="button" name="button" class="btn">AFI</button>
+<button onclick="/pages/frameworks/AFN.md" type="button" name="button" class="btn">AFN</button>
+<button onclick="/pages/frameworks/AFO.md" type="button" name="button" class="btn">AFO</button>
+<button onclick="/pages/frameworks/AFR.md" type="button" name="button" class="btn">AFR</button>
+<button onclick="/pages/frameworks/AFS.md" type="button" name="button" class="btn">AFS</button>
+<button onclick="/pages/frameworks/AFT.md" type="button" name="button" class="btn">AFT</button>
+<button onclick="/pages/frameworks/AFV.md" type="button" name="button" class="btn">AFV</button>
+<button onclick="/pages/frameworks/AFX.md" type="button" name="button" class="btn">AFX</button>
+<button onclick="/pages/frameworks/AFY.md" type="button" name="button" class="btn">AFY</button>
+<button onclick="/pages/frameworks/AHT.md" type="button" name="button" class="btn">AHT</button>
+<button onclick="/pages/frameworks/ANA.md" type="button" name="button" class="btn">ANA</button>
+<button onclick="/pages/frameworks/APC.md" type="button" name="button" class="btn">APC</button>
+<button onclick="/pages/frameworks/APD.md" type="button" name="button" class="btn">APD</button>
+<button onclick="/pages/frameworks/AST.md" type="button" name="button" class="btn">AST</button>
+<button onclick="/pages/frameworks/ASV.md" type="button" name="button" class="btn">ASV</button>
+<button onclick="/pages/frameworks/ATN.md" type="button" name="button" class="btn">ATN</button>
+<button onclick="/pages/frameworks/ATO.md" type="button" name="button" class="btn">ATO</button>
+<button onclick="/pages/frameworks/ATS.md" type="button" name="button" class="btn">ATS</button>
+<button onclick="/pages/frameworks/ATT.md" type="button" name="button" class="btn">ATT</button>
+<button onclick="/pages/frameworks/ATV.md" type="button" name="button" class="btn">ATV</button>
+<button onclick="/pages/frameworks/AVE.md" type="button" name="button" class="btn">AVE</button>
+<button onclick="/pages/frameworks/AVL.md" type="button" name="button" class="btn">AVL</button>
+<button onclick="/pages/frameworks/AWO.md" type="button" name="button" class="btn">AWO</button>
+<button onclick="/pages/frameworks/AWW.md" type="button" name="button" class="btn">AWW</button>
+<button onclick="/pages/frameworks/BCT.md" type="button" name="button" class="btn">BCT</button>
+<button onclick="/pages/frameworks/BEC.md" type="button" name="button" class="btn">BEC</button>
+<button onclick="/pages/frameworks/BIK.md" type="button" name="button" class="btn">BIK</button>
+<button onclick="/pages/frameworks/BOF.md" type="button" name="button" class="btn">BOF</button>
+<button onclick="/pages/frameworks/BOG.md" type="button" name="button" class="btn">BOG</button>
+<button onclick="/pages/frameworks/BOZ.md" type="button" name="button" class="btn">BOZ</button>
+<button onclick="/pages/frameworks/BPH.md" type="button" name="button" class="btn">BPH</button>
+<button onclick="/pages/frameworks/BRE.md" type="button" name="button" class="btn">BRE</button>
+<button onclick="/pages/frameworks/BSV.md" type="button" name="button" class="btn">BSV</button>
+<button onclick="/pages/frameworks/CAN.md" type="button" name="button" class="btn">CAN</button>
+<button onclick="/pages/frameworks/CAS.md" type="button" name="button" class="btn">CAS</button>
+<button onclick="/pages/frameworks/CDO.md" type="button" name="button" class="btn">CDO</button>
+<button onclick="/pages/frameworks/CFI.md" type="button" name="button" class="btn">CFI</button>
+<button onclick="/pages/frameworks/CGF.md" type="button" name="button" class="btn">CGF</button>
+<button onclick="/pages/frameworks/CGS.md" type="button" name="button" class="btn">CGS</button>
+<button onclick="/pages/frameworks/CHA.md" type="button" name="button" class="btn">CHA</button>
+<button onclick="/pages/frameworks/CHI.md" type="button" name="button" class="btn">CHI</button>
+<button onclick="/pages/frameworks/CLO.md" type="button" name="button" class="btn">CLO</button>
+<button onclick="/pages/frameworks/CON.md" type="button" name="button" class="btn">CON</button>
+<button onclick="/pages/frameworks/CSV.md" type="button" name="button" class="btn">CSV</button>
+<button onclick="/pages/frameworks/CZP.md" type="button" name="button" class="btn">CZP</button>
+<button onclick="/pages/frameworks/DAC.md" type="button" name="button" class="btn">DAC</button>
+<button onclick="/pages/frameworks/DDR.md" type="button" name="button" class="btn">DDR</button>
+<button onclick="/pages/frameworks/DFO.md" type="button" name="button" class="btn">DFO</button>
+<button onclick="/pages/frameworks/DFT.md" type="button" name="button" class="btn">DFT</button>
+<button onclick="/pages/frameworks/DOH.md" type="button" name="button" class="btn">DOH</button>
+<button onclick="/pages/frameworks/DON.md" type="button" name="button" class="btn">DON</button>
+<button onclick="/pages/frameworks/EAB.md" type="button" name="button" class="btn">EAB</button>
+<button onclick="/pages/frameworks/EDI.md" type="button" name="button" class="btn">EDI</button>
+<button onclick="/pages/frameworks/EEI.md" type="button" name="button" class="btn">EEI</button>
+<button onclick="/pages/frameworks/EMT.md" type="button" name="button" class="btn">EMT</button>
+<button onclick="/pages/frameworks/EON.md" type="button" name="button" class="btn">EON</button>
+<button onclick="/pages/frameworks/EPI.md" type="button" name="button" class="btn">EPI</button>
+<button onclick="/pages/frameworks/ERI.md" type="button" name="button" class="btn">ERI</button>
+<button onclick="/pages/frameworks/ESV.md" type="button" name="button" class="btn">ESV</button>
+<button onclick="/pages/frameworks/ETR.md" type="button" name="button" class="btn">ETR</button>
+<button onclick="/pages/frameworks/EUO.md" type="button" name="button" class="btn">EUO</button>
+<button onclick="/pages/frameworks/EWS.md" type="button" name="button" class="btn">EWS</button>
+<button onclick="/pages/frameworks/EZT.md" type="button" name="button" class="btn">EZT</button>
+<button onclick="/pages/frameworks/FAR.md" type="button" name="button" class="btn">FAR</button>
+<button onclick="/pages/frameworks/FAU.md" type="button" name="button" class="btn">FAU</button>
+<button onclick="/pages/frameworks/FER.md" type="button" name="button" class="btn">FER</button>
+<button onclick="/pages/frameworks/FRA.md" type="button" name="button" class="btn">FRA</button>
+<button onclick="/pages/frameworks/GIS.md" type="button" name="button" class="btn">GIS</button>
+<button onclick="/pages/frameworks/GIU.md" type="button" name="button" class="btn">GIU</button>
+<button onclick="/pages/frameworks/GME.md" type="button" name="button" class="btn">GME</button>
+<button onclick="/pages/frameworks/GON.md" type="button" name="button" class="btn">GON</button>
+<button onclick="/pages/frameworks/GOO.md" type="button" name="button" class="btn">GOO</button>
+<button onclick="/pages/frameworks/HEU.md" type="button" name="button" class="btn">HEU</button>
+<button onclick="/pages/frameworks/IFO.md" type="button" name="button" class="btn">IFO</button>
+<button onclick="/pages/frameworks/IFR.md" type="button" name="button" class="btn">IFR</button>
+<button onclick="/pages/frameworks/IFT.md" type="button" name="button" class="btn">IFT</button>
+<button onclick="/pages/frameworks/IFU.md" type="button" name="button" class="btn">IFU</button>
+<button onclick="/pages/frameworks/IFW.md" type="button" name="button" class="btn">IFW</button>
+<button onclick="/pages/frameworks/IFY.md" type="button" name="button" class="btn">IFY</button>
+<button onclick="/pages/frameworks/IHW.md" type="button" name="button" class="btn">IHW</button>
+<button onclick="/pages/frameworks/IMF.md" type="button" name="button" class="btn">IMF</button>
+<button onclick="/pages/frameworks/IRN.md" type="button" name="button" class="btn">IRN</button>
+<button onclick="/pages/frameworks/IRR.md" type="button" name="button" class="btn">IRR</button>
+<button onclick="/pages/frameworks/IRY.md" type="button" name="button" class="btn">IRY</button>
+<button onclick="/pages/frameworks/ISV.md" type="button" name="button" class="btn">ISV</button>
+<button onclick="/pages/frameworks/ITE.md" type="button" name="button" class="btn">ITE</button>
+<button onclick="/pages/frameworks/ITG.md" type="button" name="button" class="btn">ITG</button>
+<button onclick="/pages/frameworks/ITH.md" type="button" name="button" class="btn">ITH</button>
+<button onclick="/pages/frameworks/ITR.md" type="button" name="button" class="btn">ITR</button>
+<button onclick="/pages/frameworks/ITT.md" type="button" name="button" class="btn">ITT</button>
+<button onclick="/pages/frameworks/ITV.md" type="button" name="button" class="btn">ITV</button>
+<button onclick="/pages/frameworks/ITW.md" type="button" name="button" class="btn">ITW</button>
+<button onclick="/pages/frameworks/IWR.md" type="button" name="button" class="btn">IWR</button>
+<button onclick="/pages/frameworks/IWS.md" type="button" name="button" class="btn">IWS</button>
+<button onclick="/pages/frameworks/IWV.md" type="button" name="button" class="btn">IWV</button>
+<button onclick="/pages/frameworks/IWW.md" type="button" name="button" class="btn">IWW</button>
+<button onclick="/pages/frameworks/JBW.md" type="button" name="button" class="btn">JBW</button>
+<button onclick="/pages/frameworks/JNT.md" type="button" name="button" class="btn">JNT</button>
+<button onclick="/pages/frameworks/JOZ.md" type="button" name="button" class="btn">JOZ</button>
+<button onclick="/pages/frameworks/JRY.md" type="button" name="button" class="btn">JRY</button>
+<button onclick="/pages/frameworks/JSN.md" type="button" name="button" class="btn">JSN</button>
+<button onclick="/pages/frameworks/JSR.md" type="button" name="button" class="btn">JSR</button>
+<button onclick="/pages/frameworks/JST.md" type="button" name="button" class="btn">JST</button>
+<button onclick="/pages/frameworks/JSW.md" type="button" name="button" class="btn">JSW</button>
+<button onclick="/pages/frameworks/KFI.md" type="button" name="button" class="btn">KFI</button>
+<button onclick="/pages/frameworks/LAU.md" type="button" name="button" class="btn">LAU</button>
+<button onclick="/pages/frameworks/LEV.md" type="button" name="button" class="btn">LEV</button>
+<button onclick="/pages/frameworks/LIO.md" type="button" name="button" class="btn">LIO</button>
+<button onclick="/pages/frameworks/LIT.md" type="button" name="button" class="btn">LIT</button>
+<button onclick="/pages/frameworks/LOS.md" type="button" name="button" class="btn">LOS</button>
+<button onclick="/pages/frameworks/LOV.md" type="button" name="button" class="btn">LOV</button>
+<button onclick="/pages/frameworks/LTA.md" type="button" name="button" class="btn">LTA</button>
+<button onclick="/pages/frameworks/LTF.md" type="button" name="button" class="btn">LTF</button>
+<button onclick="/pages/frameworks/LTJ.md" type="button" name="button" class="btn">LTJ</button>
+<button onclick="/pages/frameworks/LTL.md" type="button" name="button" class="btn">LTL</button>
+<button onclick="/pages/frameworks/LTN.md" type="button" name="button" class="btn">LTN</button>
+<button onclick="/pages/frameworks/MAR.md" type="button" name="button" class="btn">MAR</button>
+<button onclick="/pages/frameworks/MAZ.md" type="button" name="button" class="btn">MAZ</button>
+<button onclick="/pages/frameworks/MEI.md" type="button" name="button" class="btn">MEI</button>
+<button onclick="/pages/frameworks/MEL.md" type="button" name="button" class="btn">MEL</button>
+<button onclick="/pages/frameworks/MEP.md" type="button" name="button" class="btn">MEP</button>
+<button onclick="/pages/frameworks/MER.md" type="button" name="button" class="btn">MER</button>
+<button onclick="/pages/frameworks/MFI.md" type="button" name="button" class="btn">MFI</button>
+<button onclick="/pages/frameworks/MFS.md" type="button" name="button" class="btn">MFS</button>
+<button onclick="/pages/frameworks/MON.md" type="button" name="button" class="btn">MON</button>
+<button onclick="/pages/frameworks/MOR.md" type="button" name="button" class="btn">MOR</button>
+<button onclick="/pages/frameworks/MOZ.md" type="button" name="button" class="btn">MOZ</button>
+<button onclick="/pages/frameworks/MRT.md" type="button" name="button" class="btn">MRT</button>
+<button onclick="/pages/frameworks/MSE.md" type="button" name="button" class="btn">MSE</button>
+<button onclick="/pages/frameworks/MSO.md" type="button" name="button" class="btn">MSO</button>
+<button onclick="/pages/frameworks/MTF.md" type="button" name="button" class="btn">MTF</button>
+<button onclick="/pages/frameworks/MTN.md" type="button" name="button" class="btn">MTN</button>
+<button onclick="/pages/frameworks/MTT.md" type="button" name="button" class="btn">MTT</button>
+<button onclick="/pages/frameworks/MTW.md" type="button" name="button" class="btn">MTW</button>
+<button onclick="/pages/frameworks/MVY.md" type="button" name="button" class="btn">MVY</button>
+<button onclick="/pages/frameworks/MWF.md" type="button" name="button" class="btn">MWF</button>
+<button onclick="/pages/frameworks/MWW.md" type="button" name="button" class="btn">MWW</button>
+<button onclick="/pages/frameworks/NAB.md" type="button" name="button" class="btn">NAB</button>
+<button onclick="/pages/frameworks/NAT.md" type="button" name="button" class="btn">NAT</button>
+<button onclick="/pages/frameworks/NES.md" type="button" name="button" class="btn">NES</button>
+<button onclick="/pages/frameworks/NON.md" type="button" name="button" class="btn">NON</button>
+<button onclick="/pages/frameworks/NPO.md" type="button" name="button" class="btn">NPO</button>
+<button onclick="/pages/frameworks/NPT.md" type="button" name="button" class="btn">NPT</button>
+<button onclick="/pages/frameworks/NSI.md" type="button" name="button" class="btn">NSI</button>
+<button onclick="/pages/frameworks/OBW.md" type="button" name="button" class="btn">OBW</button>
+<button onclick="/pages/frameworks/OFF.md" type="button" name="button" class="btn">OFF</button>
+<button onclick="/pages/frameworks/OKO.md" type="button" name="button" class="btn">OKO</button>
+<button onclick="/pages/frameworks/OSI.md" type="button" name="button" class="btn">OSI</button>
+<button onclick="/pages/frameworks/OSO.md" type="button" name="button" class="btn">OSO</button>
+<button onclick="/pages/frameworks/OWE.md" type="button" name="button" class="btn">OWE</button>
+<button onclick="/pages/frameworks/PAR.md" type="button" name="button" class="btn">PAR</button>
+<button onclick="/pages/frameworks/PAU.md" type="button" name="button" class="btn">PAU</button>
+<button onclick="/pages/frameworks/PCR.md" type="button" name="button" class="btn">PCR</button>
+<button onclick="/pages/frameworks/PHI.md" type="button" name="button" class="btn">PHI</button>
+<button onclick="/pages/frameworks/PON.md" type="button" name="button" class="btn">PON</button>
+<button onclick="/pages/frameworks/POR.md" type="button" name="button" class="btn">POR</button>
+<button onclick="/pages/frameworks/POS.md" type="button" name="button" class="btn">POS</button>
+<button onclick="/pages/frameworks/PSI.md" type="button" name="button" class="btn">PSI</button>
+<button onclick="/pages/frameworks/PUN.md" type="button" name="button" class="btn">PUN</button>
+<button onclick="/pages/frameworks/PWN.md" type="button" name="button" class="btn">PWN</button>
+<button onclick="/pages/frameworks/PWO.md" type="button" name="button" class="btn">PWO</button>
+<button onclick="/pages/frameworks/PWW.md" type="button" name="button" class="btn">PWW</button>
+<button onclick="/pages/frameworks/RHO.md" type="button" name="button" class="btn">RHO</button>
+<button onclick="/pages/frameworks/RON.md" type="button" name="button" class="btn">RON</button>
+<button onclick="/pages/frameworks/RRO.md" type="button" name="button" class="btn">RRO</button>
+<button onclick="/pages/frameworks/RSN.md" type="button" name="button" class="btn">RSN</button>
+<button onclick="/pages/frameworks/RTE.md" type="button" name="button" class="btn">RTE</button>
+<button onclick="/pages/frameworks/RTH.md" type="button" name="button" class="btn">RTH</button>
+<button onclick="/pages/frameworks/RUT.md" type="button" name="button" class="btn">RUT</button>
+<button onclick="/pages/frameworks/RWR.md" type="button" name="button" class="btn">RWR</button>
+<button onclick="/pages/frameworks/RWY.md" type="button" name="button" class="btn">RWY</button>
+<button onclick="/pages/frameworks/SAF.md" type="button" name="button" class="btn">SAF</button>
+<button onclick="/pages/frameworks/SAO.md" type="button" name="button" class="btn">SAO</button>
+<button onclick="/pages/frameworks/SAS.md" type="button" name="button" class="btn">SAS</button>
+<button onclick="/pages/frameworks/SAT.md" type="button" name="button" class="btn">SAT</button>
+<button onclick="/pages/frameworks/SAV.md" type="button" name="button" class="btn">SAV</button>
+<button onclick="/pages/frameworks/SBE.md" type="button" name="button" class="btn">SBE</button>
+<button onclick="/pages/frameworks/SBN.md" type="button" name="button" class="btn">SBN</button>
+<button onclick="/pages/frameworks/SBS.md" type="button" name="button" class="btn">SBS</button>
+<button onclick="/pages/frameworks/SBT.md" type="button" name="button" class="btn">SBT</button>
+<button onclick="/pages/frameworks/SEW.md" type="button" name="button" class="btn">SEW</button>
+<button onclick="/pages/frameworks/SFE.md" type="button" name="button" class="btn">SFE</button>
+<button onclick="/pages/frameworks/SFF.md" type="button" name="button" class="btn">SFF</button>
+<button onclick="/pages/frameworks/SFG.md" type="button" name="button" class="btn">SFG</button>
+<button onclick="/pages/frameworks/SFH.md" type="button" name="button" class="btn">SFH</button>
+<button onclick="/pages/frameworks/SFN.md" type="button" name="button" class="btn">SFN</button>
+<button onclick="/pages/frameworks/SFO.md" type="button" name="button" class="btn">SFO</button>
+<button onclick="/pages/frameworks/SFS.md" type="button" name="button" class="btn">SFS</button>
+<button onclick="/pages/frameworks/SFW.md" type="button" name="button" class="btn">SFW</button>
+<button onclick="/pages/frameworks/SGT.md" type="button" name="button" class="btn">SGT</button>
+<button onclick="/pages/frameworks/SIV.md" type="button" name="button" class="btn">SIV</button>
+<button onclick="/pages/frameworks/SOD.md" type="button" name="button" class="btn">SOD</button>
+<button onclick="/pages/frameworks/SOF.md" type="button" name="button" class="btn">SOF</button>
+<button onclick="/pages/frameworks/SOR.md" type="button" name="button" class="btn">SOR</button>
+<button onclick="/pages/frameworks/SOS.md" type="button" name="button" class="btn">SOS</button>
+<button onclick="/pages/frameworks/SOV.md" type="button" name="button" class="btn">SOV</button>
+<button onclick="/pages/frameworks/SSF.md" type="button" name="button" class="btn">SSF</button>
+<button onclick="/pages/frameworks/SSY.md" type="button" name="button" class="btn">SSY</button>
+<button onclick="/pages/frameworks/STF.md" type="button" name="button" class="btn">STF</button>
+<button onclick="/pages/frameworks/STI.md" type="button" name="button" class="btn">STI</button>
+<button onclick="/pages/frameworks/STT.md" type="button" name="button" class="btn">STT</button>
+<button onclick="/pages/frameworks/STW.md" type="button" name="button" class="btn">STW</button>
+<button onclick="/pages/frameworks/SVR.md" type="button" name="button" class="btn">SVR</button>
+<button onclick="/pages/frameworks/SVV.md" type="button" name="button" class="btn">SVV</button>
+<button onclick="/pages/frameworks/SWY.md" type="button" name="button" class="btn">SWY</button>
+<button onclick="/pages/frameworks/SZR.md" type="button" name="button" class="btn">SZR</button>
+<button onclick="/pages/frameworks/TER.md" type="button" name="button" class="btn">TER</button>
+<button onclick="/pages/frameworks/THO.md" type="button" name="button" class="btn">THO</button>
+<button onclick="/pages/frameworks/TOL.md" type="button" name="button" class="btn">TOL</button>
+<button onclick="/pages/frameworks/TON.md" type="button" name="button" class="btn">TON</button>
+<button onclick="/pages/frameworks/TSC.md" type="button" name="button" class="btn">TSC</button>
+<button onclick="/pages/frameworks/TUN.md" type="button" name="button" class="btn">TUN</button>
+<button onclick="/pages/frameworks/UEI.md" type="button" name="button" class="btn">UEI</button>
+<button onclick="/pages/frameworks/UFI.md" type="button" name="button" class="btn">UFI</button>
+<button onclick="/pages/frameworks/UOS.md" type="button" name="button" class="btn">UOS</button>
+<button onclick="/pages/frameworks/UOV.md" type="button" name="button" class="btn">UOV</button>
+<button onclick="/pages/frameworks/UOZ.md" type="button" name="button" class="btn">UOZ</button>
+<button onclick="/pages/frameworks/USI.md" type="button" name="button" class="btn">USI</button>
+<button onclick="/pages/frameworks/UTL.md" type="button" name="button" class="btn">UTL</button>
+<button onclick="/pages/frameworks/UWY.md" type="button" name="button" class="btn">UWY</button>
+<button onclick="/pages/frameworks/VET.md" type="button" name="button" class="btn">VET</button>
+<button onclick="/pages/frameworks/VFI.md" type="button" name="button" class="btn">VFI</button>
+<button onclick="/pages/frameworks/VNI.md" type="button" name="button" class="btn">VNI</button>
+<button onclick="/pages/frameworks/VSV.md" type="button" name="button" class="btn">VSV</button>
+<button onclick="/pages/frameworks/WEI.md" type="button" name="button" class="btn">WEI</button>
+<button onclick="/pages/frameworks/WEN.md" type="button" name="button" class="btn">WEN</button>
+<button onclick="/pages/frameworks/YFI.md" type="button" name="button" class="btn">YFI</button>
+<button onclick="/pages/frameworks/YUG.md" type="button" name="button" class="btn">YUG</button>
+<button onclick="/pages/frameworks/ZON.md" type="button" name="button" class="btn">ZON</button>
+<button onclick="/pages/frameworks/BEA.md" type="button" name="button" class="btn">BEA</button>
+<button onclick="/pages/frameworks/CTH.md" type="button" name="button" class="btn">CTH</button>
+<button onclick="/pages/frameworks/EWT.md" type="button" name="button" class="btn">EWT</button>
+<button onclick="/pages/frameworks/ITN.md" type="button" name="button" class="btn">ITN</button>
+<button onclick="/pages/frameworks/MRE.md" type="button" name="button" class="btn">MRE</button>
+<button onclick="/pages/frameworks/PCS.md" type="button" name="button" class="btn">PCS</button>
+<button onclick="/pages/frameworks/SFV.md" type="button" name="button" class="btn">SFV</button>
+<button onclick="/pages/frameworks/SSO.md" type="button" name="button" class="btn">SSO</button>
+<button onclick="/pages/frameworks/STO.md" type="button" name="button" class="btn">STO</button>
+<button onclick="/pages/frameworks/SVY.md" type="button" name="button" class="btn">SVY</button>
+<button onclick="/pages/frameworks/UOE.md" type="button" name="button" class="btn">UOE</button>
