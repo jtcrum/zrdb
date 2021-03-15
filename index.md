@@ -1,4 +1,4 @@
-[Info](/pages/info.md) [Frameworks](/pages/frameworks.md)
+[Home](./index.md) | [Frameworks](/pages/frameworks.md) | [ZSE](github.com/jtcrum/zse)
 
 # About Rings in Zeolites
 ## Nomenclature
