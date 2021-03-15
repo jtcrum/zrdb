@@ -1,247 +1,247 @@
-<button onclick="location.href='/pages/frameworks/ABW.md'" "type="button" name="button" class="btn">ABW</button>
-<button onclick="location.href='/pages/frameworks/ACO.md'" "type="button" name="button" class="btn">ACO</button>
-<button onclick="location.href='/pages/frameworks/AEI.md'" "type="button" name="button" class="btn">AEI</button>
-<button onclick="location.href='/pages/frameworks/AEL.md'" "type="button" name="button" class="btn">AEL</button>
-<button onclick="location.href='/pages/frameworks/AEN.md'" "type="button" name="button" class="btn">AEN</button>
-<button onclick="location.href='/pages/frameworks/AET.md'" "type="button" name="button" class="btn">AET</button>
-<button onclick="location.href='/pages/frameworks/AFG.md'" "type="button" name="button" class="btn">AFG</button>
-<button onclick="location.href='/pages/frameworks/AFI.md'" "type="button" name="button" class="btn">AFI</button>
-<button onclick="location.href='/pages/frameworks/AFN.md'" "type="button" name="button" class="btn">AFN</button>
-<button onclick="location.href='/pages/frameworks/AFO.md'" "type="button" name="button" class="btn">AFO</button>
-<button onclick="location.href='/pages/frameworks/AFR.md'" "type="button" name="button" class="btn">AFR</button>
-<button onclick="location.href='/pages/frameworks/AFS.md'" "type="button" name="button" class="btn">AFS</button>
-<button onclick="location.href='/pages/frameworks/AFT.md'" "type="button" name="button" class="btn">AFT</button>
-<button onclick="location.href='/pages/frameworks/AFV.md'" "type="button" name="button" class="btn">AFV</button>
-<button onclick="location.href='/pages/frameworks/AFX.md'" "type="button" name="button" class="btn">AFX</button>
-<button onclick="location.href='/pages/frameworks/AFY.md'" "type="button" name="button" class="btn">AFY</button>
-<button onclick="location.href='/pages/frameworks/AHT.md'" "type="button" name="button" class="btn">AHT</button>
-<button onclick="location.href='/pages/frameworks/ANA.md'" "type="button" name="button" class="btn">ANA</button>
-<button onclick="location.href='/pages/frameworks/APC.md'" "type="button" name="button" class="btn">APC</button>
-<button onclick="location.href='/pages/frameworks/APD.md'" "type="button" name="button" class="btn">APD</button>
-<button onclick="location.href='/pages/frameworks/AST.md'" "type="button" name="button" class="btn">AST</button>
-<button onclick="location.href='/pages/frameworks/ASV.md'" "type="button" name="button" class="btn">ASV</button>
-<button onclick="location.href='/pages/frameworks/ATN.md'" "type="button" name="button" class="btn">ATN</button>
-<button onclick="location.href='/pages/frameworks/ATO.md'" "type="button" name="button" class="btn">ATO</button>
-<button onclick="location.href='/pages/frameworks/ATS.md'" "type="button" name="button" class="btn">ATS</button>
-<button onclick="location.href='/pages/frameworks/ATT.md'" "type="button" name="button" class="btn">ATT</button>
-<button onclick="location.href='/pages/frameworks/ATV.md'" "type="button" name="button" class="btn">ATV</button>
-<button onclick="location.href='/pages/frameworks/AVE.md'" "type="button" name="button" class="btn">AVE</button>
-<button onclick="location.href='/pages/frameworks/AVL.md'" "type="button" name="button" class="btn">AVL</button>
-<button onclick="location.href='/pages/frameworks/AWO.md'" "type="button" name="button" class="btn">AWO</button>
-<button onclick="location.href='/pages/frameworks/AWW.md'" "type="button" name="button" class="btn">AWW</button>
-<button onclick="location.href='/pages/frameworks/BCT.md'" "type="button" name="button" class="btn">BCT</button>
-<button onclick="location.href='/pages/frameworks/BEC.md'" "type="button" name="button" class="btn">BEC</button>
-<button onclick="location.href='/pages/frameworks/BIK.md'" "type="button" name="button" class="btn">BIK</button>
-<button onclick="location.href='/pages/frameworks/BOF.md'" "type="button" name="button" class="btn">BOF</button>
-<button onclick="location.href='/pages/frameworks/BOG.md'" "type="button" name="button" class="btn">BOG</button>
-<button onclick="location.href='/pages/frameworks/BOZ.md'" "type="button" name="button" class="btn">BOZ</button>
-<button onclick="location.href='/pages/frameworks/BPH.md'" "type="button" name="button" class="btn">BPH</button>
-<button onclick="location.href='/pages/frameworks/BRE.md'" "type="button" name="button" class="btn">BRE</button>
-<button onclick="location.href='/pages/frameworks/BSV.md'" "type="button" name="button" class="btn">BSV</button>
-<button onclick="location.href='/pages/frameworks/CAN.md'" "type="button" name="button" class="btn">CAN</button>
-<button onclick="location.href='/pages/frameworks/CAS.md'" "type="button" name="button" class="btn">CAS</button>
-<button onclick="location.href='/pages/frameworks/CDO.md'" "type="button" name="button" class="btn">CDO</button>
-<button onclick="location.href='/pages/frameworks/CFI.md'" "type="button" name="button" class="btn">CFI</button>
-<button onclick="location.href='/pages/frameworks/CGF.md'" "type="button" name="button" class="btn">CGF</button>
-<button onclick="location.href='/pages/frameworks/CGS.md'" "type="button" name="button" class="btn">CGS</button>
-<button onclick="location.href='/pages/frameworks/CHA.md'" "type="button" name="button" class="btn">CHA</button>
-<button onclick="location.href='/pages/frameworks/CHI.md'" "type="button" name="button" class="btn">CHI</button>
-<button onclick="location.href='/pages/frameworks/CLO.md'" "type="button" name="button" class="btn">CLO</button>
-<button onclick="location.href='/pages/frameworks/CON.md'" "type="button" name="button" class="btn">CON</button>
-<button onclick="location.href='/pages/frameworks/CSV.md'" "type="button" name="button" class="btn">CSV</button>
-<button onclick="location.href='/pages/frameworks/CZP.md'" "type="button" name="button" class="btn">CZP</button>
-<button onclick="location.href='/pages/frameworks/DAC.md'" "type="button" name="button" class="btn">DAC</button>
-<button onclick="location.href='/pages/frameworks/DDR.md'" "type="button" name="button" class="btn">DDR</button>
-<button onclick="location.href='/pages/frameworks/DFO.md'" "type="button" name="button" class="btn">DFO</button>
-<button onclick="location.href='/pages/frameworks/DFT.md'" "type="button" name="button" class="btn">DFT</button>
-<button onclick="location.href='/pages/frameworks/DOH.md'" "type="button" name="button" class="btn">DOH</button>
-<button onclick="location.href='/pages/frameworks/DON.md'" "type="button" name="button" class="btn">DON</button>
-<button onclick="location.href='/pages/frameworks/EAB.md'" "type="button" name="button" class="btn">EAB</button>
-<button onclick="location.href='/pages/frameworks/EDI.md'" "type="button" name="button" class="btn">EDI</button>
-<button onclick="location.href='/pages/frameworks/EEI.md'" "type="button" name="button" class="btn">EEI</button>
-<button onclick="location.href='/pages/frameworks/EMT.md'" "type="button" name="button" class="btn">EMT</button>
-<button onclick="location.href='/pages/frameworks/EON.md'" "type="button" name="button" class="btn">EON</button>
-<button onclick="location.href='/pages/frameworks/EPI.md'" "type="button" name="button" class="btn">EPI</button>
-<button onclick="location.href='/pages/frameworks/ERI.md'" "type="button" name="button" class="btn">ERI</button>
-<button onclick="location.href='/pages/frameworks/ESV.md'" "type="button" name="button" class="btn">ESV</button>
-<button onclick="location.href='/pages/frameworks/ETR.md'" "type="button" name="button" class="btn">ETR</button>
-<button onclick="location.href='/pages/frameworks/EUO.md'" "type="button" name="button" class="btn">EUO</button>
-<button onclick="location.href='/pages/frameworks/EWS.md'" "type="button" name="button" class="btn">EWS</button>
-<button onclick="location.href='/pages/frameworks/EZT.md'" "type="button" name="button" class="btn">EZT</button>
-<button onclick="location.href='/pages/frameworks/FAR.md'" "type="button" name="button" class="btn">FAR</button>
-<button onclick="location.href='/pages/frameworks/FAU.md'" "type="button" name="button" class="btn">FAU</button>
-<button onclick="location.href='/pages/frameworks/FER.md'" "type="button" name="button" class="btn">FER</button>
-<button onclick="location.href='/pages/frameworks/FRA.md'" "type="button" name="button" class="btn">FRA</button>
-<button onclick="location.href='/pages/frameworks/GIS.md'" "type="button" name="button" class="btn">GIS</button>
-<button onclick="location.href='/pages/frameworks/GIU.md'" "type="button" name="button" class="btn">GIU</button>
-<button onclick="location.href='/pages/frameworks/GME.md'" "type="button" name="button" class="btn">GME</button>
-<button onclick="location.href='/pages/frameworks/GON.md'" "type="button" name="button" class="btn">GON</button>
-<button onclick="location.href='/pages/frameworks/GOO.md'" "type="button" name="button" class="btn">GOO</button>
-<button onclick="location.href='/pages/frameworks/HEU.md'" "type="button" name="button" class="btn">HEU</button>
-<button onclick="location.href='/pages/frameworks/IFO.md'" "type="button" name="button" class="btn">IFO</button>
-<button onclick="location.href='/pages/frameworks/IFR.md'" "type="button" name="button" class="btn">IFR</button>
-<button onclick="location.href='/pages/frameworks/IFT.md'" "type="button" name="button" class="btn">IFT</button>
-<button onclick="location.href='/pages/frameworks/IFU.md'" "type="button" name="button" class="btn">IFU</button>
-<button onclick="location.href='/pages/frameworks/IFW.md'" "type="button" name="button" class="btn">IFW</button>
-<button onclick="location.href='/pages/frameworks/IFY.md'" "type="button" name="button" class="btn">IFY</button>
-<button onclick="location.href='/pages/frameworks/IHW.md'" "type="button" name="button" class="btn">IHW</button>
-<button onclick="location.href='/pages/frameworks/IMF.md'" "type="button" name="button" class="btn">IMF</button>
-<button onclick="location.href='/pages/frameworks/IRN.md'" "type="button" name="button" class="btn">IRN</button>
-<button onclick="location.href='/pages/frameworks/IRR.md'" "type="button" name="button" class="btn">IRR</button>
-<button onclick="location.href='/pages/frameworks/IRY.md'" "type="button" name="button" class="btn">IRY</button>
-<button onclick="location.href='/pages/frameworks/ISV.md'" "type="button" name="button" class="btn">ISV</button>
-<button onclick="location.href='/pages/frameworks/ITE.md'" "type="button" name="button" class="btn">ITE</button>
-<button onclick="location.href='/pages/frameworks/ITG.md'" "type="button" name="button" class="btn">ITG</button>
-<button onclick="location.href='/pages/frameworks/ITH.md'" "type="button" name="button" class="btn">ITH</button>
-<button onclick="location.href='/pages/frameworks/ITR.md'" "type="button" name="button" class="btn">ITR</button>
-<button onclick="location.href='/pages/frameworks/ITT.md'" "type="button" name="button" class="btn">ITT</button>
-<button onclick="location.href='/pages/frameworks/ITV.md'" "type="button" name="button" class="btn">ITV</button>
-<button onclick="location.href='/pages/frameworks/ITW.md'" "type="button" name="button" class="btn">ITW</button>
-<button onclick="location.href='/pages/frameworks/IWR.md'" "type="button" name="button" class="btn">IWR</button>
-<button onclick="location.href='/pages/frameworks/IWS.md'" "type="button" name="button" class="btn">IWS</button>
-<button onclick="location.href='/pages/frameworks/IWV.md'" "type="button" name="button" class="btn">IWV</button>
-<button onclick="location.href='/pages/frameworks/IWW.md'" "type="button" name="button" class="btn">IWW</button>
-<button onclick="location.href='/pages/frameworks/JBW.md'" "type="button" name="button" class="btn">JBW</button>
-<button onclick="location.href='/pages/frameworks/JNT.md'" "type="button" name="button" class="btn">JNT</button>
-<button onclick="location.href='/pages/frameworks/JOZ.md'" "type="button" name="button" class="btn">JOZ</button>
-<button onclick="location.href='/pages/frameworks/JRY.md'" "type="button" name="button" class="btn">JRY</button>
-<button onclick="location.href='/pages/frameworks/JSN.md'" "type="button" name="button" class="btn">JSN</button>
-<button onclick="location.href='/pages/frameworks/JSR.md'" "type="button" name="button" class="btn">JSR</button>
-<button onclick="location.href='/pages/frameworks/JST.md'" "type="button" name="button" class="btn">JST</button>
-<button onclick="location.href='/pages/frameworks/JSW.md'" "type="button" name="button" class="btn">JSW</button>
-<button onclick="location.href='/pages/frameworks/KFI.md'" "type="button" name="button" class="btn">KFI</button>
-<button onclick="location.href='/pages/frameworks/LAU.md'" "type="button" name="button" class="btn">LAU</button>
-<button onclick="location.href='/pages/frameworks/LEV.md'" "type="button" name="button" class="btn">LEV</button>
-<button onclick="location.href='/pages/frameworks/LIO.md'" "type="button" name="button" class="btn">LIO</button>
-<button onclick="location.href='/pages/frameworks/LIT.md'" "type="button" name="button" class="btn">LIT</button>
-<button onclick="location.href='/pages/frameworks/LOS.md'" "type="button" name="button" class="btn">LOS</button>
-<button onclick="location.href='/pages/frameworks/LOV.md'" "type="button" name="button" class="btn">LOV</button>
-<button onclick="location.href='/pages/frameworks/LTA.md'" "type="button" name="button" class="btn">LTA</button>
-<button onclick="location.href='/pages/frameworks/LTF.md'" "type="button" name="button" class="btn">LTF</button>
-<button onclick="location.href='/pages/frameworks/LTJ.md'" "type="button" name="button" class="btn">LTJ</button>
-<button onclick="location.href='/pages/frameworks/LTL.md'" "type="button" name="button" class="btn">LTL</button>
-<button onclick="location.href='/pages/frameworks/LTN.md'" "type="button" name="button" class="btn">LTN</button>
-<button onclick="location.href='/pages/frameworks/MAR.md'" "type="button" name="button" class="btn">MAR</button>
-<button onclick="location.href='/pages/frameworks/MAZ.md'" "type="button" name="button" class="btn">MAZ</button>
-<button onclick="location.href='/pages/frameworks/MEI.md'" "type="button" name="button" class="btn">MEI</button>
-<button onclick="location.href='/pages/frameworks/MEL.md'" "type="button" name="button" class="btn">MEL</button>
-<button onclick="location.href='/pages/frameworks/MEP.md'" "type="button" name="button" class="btn">MEP</button>
-<button onclick="location.href='/pages/frameworks/MER.md'" "type="button" name="button" class="btn">MER</button>
-<button onclick="location.href='/pages/frameworks/MFI.md'" "type="button" name="button" class="btn">MFI</button>
-<button onclick="location.href='/pages/frameworks/MFS.md'" "type="button" name="button" class="btn">MFS</button>
-<button onclick="location.href='/pages/frameworks/MON.md'" "type="button" name="button" class="btn">MON</button>
-<button onclick="location.href='/pages/frameworks/MOR.md'" "type="button" name="button" class="btn">MOR</button>
-<button onclick="location.href='/pages/frameworks/MOZ.md'" "type="button" name="button" class="btn">MOZ</button>
-<button onclick="location.href='/pages/frameworks/MRT.md'" "type="button" name="button" class="btn">MRT</button>
-<button onclick="location.href='/pages/frameworks/MSE.md'" "type="button" name="button" class="btn">MSE</button>
-<button onclick="location.href='/pages/frameworks/MSO.md'" "type="button" name="button" class="btn">MSO</button>
-<button onclick="location.href='/pages/frameworks/MTF.md'" "type="button" name="button" class="btn">MTF</button>
-<button onclick="location.href='/pages/frameworks/MTN.md'" "type="button" name="button" class="btn">MTN</button>
-<button onclick="location.href='/pages/frameworks/MTT.md'" "type="button" name="button" class="btn">MTT</button>
-<button onclick="location.href='/pages/frameworks/MTW.md'" "type="button" name="button" class="btn">MTW</button>
-<button onclick="location.href='/pages/frameworks/MVY.md'" "type="button" name="button" class="btn">MVY</button>
-<button onclick="location.href='/pages/frameworks/MWF.md'" "type="button" name="button" class="btn">MWF</button>
-<button onclick="location.href='/pages/frameworks/MWW.md'" "type="button" name="button" class="btn">MWW</button>
-<button onclick="location.href='/pages/frameworks/NAB.md'" "type="button" name="button" class="btn">NAB</button>
-<button onclick="location.href='/pages/frameworks/NAT.md'" "type="button" name="button" class="btn">NAT</button>
-<button onclick="location.href='/pages/frameworks/NES.md'" "type="button" name="button" class="btn">NES</button>
-<button onclick="location.href='/pages/frameworks/NON.md'" "type="button" name="button" class="btn">NON</button>
-<button onclick="location.href='/pages/frameworks/NPO.md'" "type="button" name="button" class="btn">NPO</button>
-<button onclick="location.href='/pages/frameworks/NPT.md'" "type="button" name="button" class="btn">NPT</button>
-<button onclick="location.href='/pages/frameworks/NSI.md'" "type="button" name="button" class="btn">NSI</button>
-<button onclick="location.href='/pages/frameworks/OBW.md'" "type="button" name="button" class="btn">OBW</button>
-<button onclick="location.href='/pages/frameworks/OFF.md'" "type="button" name="button" class="btn">OFF</button>
-<button onclick="location.href='/pages/frameworks/OKO.md'" "type="button" name="button" class="btn">OKO</button>
-<button onclick="location.href='/pages/frameworks/OSI.md'" "type="button" name="button" class="btn">OSI</button>
-<button onclick="location.href='/pages/frameworks/OSO.md'" "type="button" name="button" class="btn">OSO</button>
-<button onclick="location.href='/pages/frameworks/OWE.md'" "type="button" name="button" class="btn">OWE</button>
-<button onclick="location.href='/pages/frameworks/PAR.md'" "type="button" name="button" class="btn">PAR</button>
-<button onclick="location.href='/pages/frameworks/PAU.md'" "type="button" name="button" class="btn">PAU</button>
-<button onclick="location.href='/pages/frameworks/PCR.md'" "type="button" name="button" class="btn">PCR</button>
-<button onclick="location.href='/pages/frameworks/PHI.md'" "type="button" name="button" class="btn">PHI</button>
-<button onclick="location.href='/pages/frameworks/PON.md'" "type="button" name="button" class="btn">PON</button>
-<button onclick="location.href='/pages/frameworks/POR.md'" "type="button" name="button" class="btn">POR</button>
-<button onclick="location.href='/pages/frameworks/POS.md'" "type="button" name="button" class="btn">POS</button>
-<button onclick="location.href='/pages/frameworks/PSI.md'" "type="button" name="button" class="btn">PSI</button>
-<button onclick="location.href='/pages/frameworks/PUN.md'" "type="button" name="button" class="btn">PUN</button>
-<button onclick="location.href='/pages/frameworks/PWN.md'" "type="button" name="button" class="btn">PWN</button>
-<button onclick="location.href='/pages/frameworks/PWO.md'" "type="button" name="button" class="btn">PWO</button>
-<button onclick="location.href='/pages/frameworks/PWW.md'" "type="button" name="button" class="btn">PWW</button>
-<button onclick="location.href='/pages/frameworks/RHO.md'" "type="button" name="button" class="btn">RHO</button>
-<button onclick="location.href='/pages/frameworks/RON.md'" "type="button" name="button" class="btn">RON</button>
-<button onclick="location.href='/pages/frameworks/RRO.md'" "type="button" name="button" class="btn">RRO</button>
-<button onclick="location.href='/pages/frameworks/RSN.md'" "type="button" name="button" class="btn">RSN</button>
-<button onclick="location.href='/pages/frameworks/RTE.md'" "type="button" name="button" class="btn">RTE</button>
-<button onclick="location.href='/pages/frameworks/RTH.md'" "type="button" name="button" class="btn">RTH</button>
-<button onclick="location.href='/pages/frameworks/RUT.md'" "type="button" name="button" class="btn">RUT</button>
-<button onclick="location.href='/pages/frameworks/RWR.md'" "type="button" name="button" class="btn">RWR</button>
-<button onclick="location.href='/pages/frameworks/RWY.md'" "type="button" name="button" class="btn">RWY</button>
-<button onclick="location.href='/pages/frameworks/SAF.md'" "type="button" name="button" class="btn">SAF</button>
-<button onclick="location.href='/pages/frameworks/SAO.md'" "type="button" name="button" class="btn">SAO</button>
-<button onclick="location.href='/pages/frameworks/SAS.md'" "type="button" name="button" class="btn">SAS</button>
-<button onclick="location.href='/pages/frameworks/SAT.md'" "type="button" name="button" class="btn">SAT</button>
-<button onclick="location.href='/pages/frameworks/SAV.md'" "type="button" name="button" class="btn">SAV</button>
-<button onclick="location.href='/pages/frameworks/SBE.md'" "type="button" name="button" class="btn">SBE</button>
-<button onclick="location.href='/pages/frameworks/SBN.md'" "type="button" name="button" class="btn">SBN</button>
-<button onclick="location.href='/pages/frameworks/SBS.md'" "type="button" name="button" class="btn">SBS</button>
-<button onclick="location.href='/pages/frameworks/SBT.md'" "type="button" name="button" class="btn">SBT</button>
-<button onclick="location.href='/pages/frameworks/SEW.md'" "type="button" name="button" class="btn">SEW</button>
-<button onclick="location.href='/pages/frameworks/SFE.md'" "type="button" name="button" class="btn">SFE</button>
-<button onclick="location.href='/pages/frameworks/SFF.md'" "type="button" name="button" class="btn">SFF</button>
-<button onclick="location.href='/pages/frameworks/SFG.md'" "type="button" name="button" class="btn">SFG</button>
-<button onclick="location.href='/pages/frameworks/SFH.md'" "type="button" name="button" class="btn">SFH</button>
-<button onclick="location.href='/pages/frameworks/SFN.md'" "type="button" name="button" class="btn">SFN</button>
-<button onclick="location.href='/pages/frameworks/SFO.md'" "type="button" name="button" class="btn">SFO</button>
-<button onclick="location.href='/pages/frameworks/SFS.md'" "type="button" name="button" class="btn">SFS</button>
-<button onclick="location.href='/pages/frameworks/SFW.md'" "type="button" name="button" class="btn">SFW</button>
-<button onclick="location.href='/pages/frameworks/SGT.md'" "type="button" name="button" class="btn">SGT</button>
-<button onclick="location.href='/pages/frameworks/SIV.md'" "type="button" name="button" class="btn">SIV</button>
-<button onclick="location.href='/pages/frameworks/SOD.md'" "type="button" name="button" class="btn">SOD</button>
-<button onclick="location.href='/pages/frameworks/SOF.md'" "type="button" name="button" class="btn">SOF</button>
-<button onclick="location.href='/pages/frameworks/SOR.md'" "type="button" name="button" class="btn">SOR</button>
-<button onclick="location.href='/pages/frameworks/SOS.md'" "type="button" name="button" class="btn">SOS</button>
-<button onclick="location.href='/pages/frameworks/SOV.md'" "type="button" name="button" class="btn">SOV</button>
-<button onclick="location.href='/pages/frameworks/SSF.md'" "type="button" name="button" class="btn">SSF</button>
-<button onclick="location.href='/pages/frameworks/SSY.md'" "type="button" name="button" class="btn">SSY</button>
-<button onclick="location.href='/pages/frameworks/STF.md'" "type="button" name="button" class="btn">STF</button>
-<button onclick="location.href='/pages/frameworks/STI.md'" "type="button" name="button" class="btn">STI</button>
-<button onclick="location.href='/pages/frameworks/STT.md'" "type="button" name="button" class="btn">STT</button>
-<button onclick="location.href='/pages/frameworks/STW.md'" "type="button" name="button" class="btn">STW</button>
-<button onclick="location.href='/pages/frameworks/SVR.md'" "type="button" name="button" class="btn">SVR</button>
-<button onclick="location.href='/pages/frameworks/SVV.md'" "type="button" name="button" class="btn">SVV</button>
-<button onclick="location.href='/pages/frameworks/SWY.md'" "type="button" name="button" class="btn">SWY</button>
-<button onclick="location.href='/pages/frameworks/SZR.md'" "type="button" name="button" class="btn">SZR</button>
-<button onclick="location.href='/pages/frameworks/TER.md'" "type="button" name="button" class="btn">TER</button>
-<button onclick="location.href='/pages/frameworks/THO.md'" "type="button" name="button" class="btn">THO</button>
-<button onclick="location.href='/pages/frameworks/TOL.md'" "type="button" name="button" class="btn">TOL</button>
-<button onclick="location.href='/pages/frameworks/TON.md'" "type="button" name="button" class="btn">TON</button>
-<button onclick="location.href='/pages/frameworks/TSC.md'" "type="button" name="button" class="btn">TSC</button>
-<button onclick="location.href='/pages/frameworks/TUN.md'" "type="button" name="button" class="btn">TUN</button>
-<button onclick="location.href='/pages/frameworks/UEI.md'" "type="button" name="button" class="btn">UEI</button>
-<button onclick="location.href='/pages/frameworks/UFI.md'" "type="button" name="button" class="btn">UFI</button>
-<button onclick="location.href='/pages/frameworks/UOS.md'" "type="button" name="button" class="btn">UOS</button>
-<button onclick="location.href='/pages/frameworks/UOV.md'" "type="button" name="button" class="btn">UOV</button>
-<button onclick="location.href='/pages/frameworks/UOZ.md'" "type="button" name="button" class="btn">UOZ</button>
-<button onclick="location.href='/pages/frameworks/USI.md'" "type="button" name="button" class="btn">USI</button>
-<button onclick="location.href='/pages/frameworks/UTL.md'" "type="button" name="button" class="btn">UTL</button>
-<button onclick="location.href='/pages/frameworks/UWY.md'" "type="button" name="button" class="btn">UWY</button>
-<button onclick="location.href='/pages/frameworks/VET.md'" "type="button" name="button" class="btn">VET</button>
-<button onclick="location.href='/pages/frameworks/VFI.md'" "type="button" name="button" class="btn">VFI</button>
-<button onclick="location.href='/pages/frameworks/VNI.md'" "type="button" name="button" class="btn">VNI</button>
-<button onclick="location.href='/pages/frameworks/VSV.md'" "type="button" name="button" class="btn">VSV</button>
-<button onclick="location.href='/pages/frameworks/WEI.md'" "type="button" name="button" class="btn">WEI</button>
-<button onclick="location.href='/pages/frameworks/WEN.md'" "type="button" name="button" class="btn">WEN</button>
-<button onclick="location.href='/pages/frameworks/YFI.md'" "type="button" name="button" class="btn">YFI</button>
-<button onclick="location.href='/pages/frameworks/YUG.md'" "type="button" name="button" class="btn">YUG</button>
-<button onclick="location.href='/pages/frameworks/ZON.md'" "type="button" name="button" class="btn">ZON</button>
-<button onclick="location.href='/pages/frameworks/BEA.md'" "type="button" name="button" class="btn">BEA</button>
-<button onclick="location.href='/pages/frameworks/CTH.md'" "type="button" name="button" class="btn">CTH</button>
-<button onclick="location.href='/pages/frameworks/EWT.md'" "type="button" name="button" class="btn">EWT</button>
-<button onclick="location.href='/pages/frameworks/ITN.md'" "type="button" name="button" class="btn">ITN</button>
-<button onclick="location.href='/pages/frameworks/MRE.md'" "type="button" name="button" class="btn">MRE</button>
-<button onclick="location.href='/pages/frameworks/PCS.md'" "type="button" name="button" class="btn">PCS</button>
-<button onclick="location.href='/pages/frameworks/SFV.md'" "type="button" name="button" class="btn">SFV</button>
-<button onclick="location.href='/pages/frameworks/SSO.md'" "type="button" name="button" class="btn">SSO</button>
-<button onclick="location.href='/pages/frameworks/STO.md'" "type="button" name="button" class="btn">STO</button>
-<button onclick="location.href='/pages/frameworks/SVY.md'" "type="button" name="button" class="btn">SVY</button>
-<button onclick="location.href='/pages/frameworks/UOE.md'" "type="button" name="button" class="btn">UOE</button>
+<button onclick="location.href='/pages/frameworks/ABW.md'" "type="button">ABW</button>
+<button onclick="location.href='/pages/frameworks/ACO.md'" "type="button">ACO</button>
+<button onclick="location.href='/pages/frameworks/AEI.md'" "type="button">AEI</button>
+<button onclick="location.href='/pages/frameworks/AEL.md'" "type="button">AEL</button>
+<button onclick="location.href='/pages/frameworks/AEN.md'" "type="button">AEN</button>
+<button onclick="location.href='/pages/frameworks/AET.md'" "type="button">AET</button>
+<button onclick="location.href='/pages/frameworks/AFG.md'" "type="button">AFG</button>
+<button onclick="location.href='/pages/frameworks/AFI.md'" "type="button">AFI</button>
+<button onclick="location.href='/pages/frameworks/AFN.md'" "type="button">AFN</button>
+<button onclick="location.href='/pages/frameworks/AFO.md'" "type="button">AFO</button>
+<button onclick="location.href='/pages/frameworks/AFR.md'" "type="button">AFR</button>
+<button onclick="location.href='/pages/frameworks/AFS.md'" "type="button">AFS</button>
+<button onclick="location.href='/pages/frameworks/AFT.md'" "type="button">AFT</button>
+<button onclick="location.href='/pages/frameworks/AFV.md'" "type="button">AFV</button>
+<button onclick="location.href='/pages/frameworks/AFX.md'" "type="button">AFX</button>
+<button onclick="location.href='/pages/frameworks/AFY.md'" "type="button">AFY</button>
+<button onclick="location.href='/pages/frameworks/AHT.md'" "type="button">AHT</button>
+<button onclick="location.href='/pages/frameworks/ANA.md'" "type="button">ANA</button>
+<button onclick="location.href='/pages/frameworks/APC.md'" "type="button">APC</button>
+<button onclick="location.href='/pages/frameworks/APD.md'" "type="button">APD</button>
+<button onclick="location.href='/pages/frameworks/AST.md'" "type="button">AST</button>
+<button onclick="location.href='/pages/frameworks/ASV.md'" "type="button">ASV</button>
+<button onclick="location.href='/pages/frameworks/ATN.md'" "type="button">ATN</button>
+<button onclick="location.href='/pages/frameworks/ATO.md'" "type="button">ATO</button>
+<button onclick="location.href='/pages/frameworks/ATS.md'" "type="button">ATS</button>
+<button onclick="location.href='/pages/frameworks/ATT.md'" "type="button">ATT</button>
+<button onclick="location.href='/pages/frameworks/ATV.md'" "type="button">ATV</button>
+<button onclick="location.href='/pages/frameworks/AVE.md'" "type="button">AVE</button>
+<button onclick="location.href='/pages/frameworks/AVL.md'" "type="button">AVL</button>
+<button onclick="location.href='/pages/frameworks/AWO.md'" "type="button">AWO</button>
+<button onclick="location.href='/pages/frameworks/AWW.md'" "type="button">AWW</button>
+<button onclick="location.href='/pages/frameworks/BCT.md'" "type="button">BCT</button>
+<button onclick="location.href='/pages/frameworks/BEC.md'" "type="button">BEC</button>
+<button onclick="location.href='/pages/frameworks/BIK.md'" "type="button">BIK</button>
+<button onclick="location.href='/pages/frameworks/BOF.md'" "type="button">BOF</button>
+<button onclick="location.href='/pages/frameworks/BOG.md'" "type="button">BOG</button>
+<button onclick="location.href='/pages/frameworks/BOZ.md'" "type="button">BOZ</button>
+<button onclick="location.href='/pages/frameworks/BPH.md'" "type="button">BPH</button>
+<button onclick="location.href='/pages/frameworks/BRE.md'" "type="button">BRE</button>
+<button onclick="location.href='/pages/frameworks/BSV.md'" "type="button">BSV</button>
+<button onclick="location.href='/pages/frameworks/CAN.md'" "type="button">CAN</button>
+<button onclick="location.href='/pages/frameworks/CAS.md'" "type="button">CAS</button>
+<button onclick="location.href='/pages/frameworks/CDO.md'" "type="button">CDO</button>
+<button onclick="location.href='/pages/frameworks/CFI.md'" "type="button">CFI</button>
+<button onclick="location.href='/pages/frameworks/CGF.md'" "type="button">CGF</button>
+<button onclick="location.href='/pages/frameworks/CGS.md'" "type="button">CGS</button>
+<button onclick="location.href='/pages/frameworks/CHA.md'" "type="button">CHA</button>
+<button onclick="location.href='/pages/frameworks/CHI.md'" "type="button">CHI</button>
+<button onclick="location.href='/pages/frameworks/CLO.md'" "type="button">CLO</button>
+<button onclick="location.href='/pages/frameworks/CON.md'" "type="button">CON</button>
+<button onclick="location.href='/pages/frameworks/CSV.md'" "type="button">CSV</button>
+<button onclick="location.href='/pages/frameworks/CZP.md'" "type="button">CZP</button>
+<button onclick="location.href='/pages/frameworks/DAC.md'" "type="button">DAC</button>
+<button onclick="location.href='/pages/frameworks/DDR.md'" "type="button">DDR</button>
+<button onclick="location.href='/pages/frameworks/DFO.md'" "type="button">DFO</button>
+<button onclick="location.href='/pages/frameworks/DFT.md'" "type="button">DFT</button>
+<button onclick="location.href='/pages/frameworks/DOH.md'" "type="button">DOH</button>
+<button onclick="location.href='/pages/frameworks/DON.md'" "type="button">DON</button>
+<button onclick="location.href='/pages/frameworks/EAB.md'" "type="button">EAB</button>
+<button onclick="location.href='/pages/frameworks/EDI.md'" "type="button">EDI</button>
+<button onclick="location.href='/pages/frameworks/EEI.md'" "type="button">EEI</button>
+<button onclick="location.href='/pages/frameworks/EMT.md'" "type="button">EMT</button>
+<button onclick="location.href='/pages/frameworks/EON.md'" "type="button">EON</button>
+<button onclick="location.href='/pages/frameworks/EPI.md'" "type="button">EPI</button>
+<button onclick="location.href='/pages/frameworks/ERI.md'" "type="button">ERI</button>
+<button onclick="location.href='/pages/frameworks/ESV.md'" "type="button">ESV</button>
+<button onclick="location.href='/pages/frameworks/ETR.md'" "type="button">ETR</button>
+<button onclick="location.href='/pages/frameworks/EUO.md'" "type="button">EUO</button>
+<button onclick="location.href='/pages/frameworks/EWS.md'" "type="button">EWS</button>
+<button onclick="location.href='/pages/frameworks/EZT.md'" "type="button">EZT</button>
+<button onclick="location.href='/pages/frameworks/FAR.md'" "type="button">FAR</button>
+<button onclick="location.href='/pages/frameworks/FAU.md'" "type="button">FAU</button>
+<button onclick="location.href='/pages/frameworks/FER.md'" "type="button">FER</button>
+<button onclick="location.href='/pages/frameworks/FRA.md'" "type="button">FRA</button>
+<button onclick="location.href='/pages/frameworks/GIS.md'" "type="button">GIS</button>
+<button onclick="location.href='/pages/frameworks/GIU.md'" "type="button">GIU</button>
+<button onclick="location.href='/pages/frameworks/GME.md'" "type="button">GME</button>
+<button onclick="location.href='/pages/frameworks/GON.md'" "type="button">GON</button>
+<button onclick="location.href='/pages/frameworks/GOO.md'" "type="button">GOO</button>
+<button onclick="location.href='/pages/frameworks/HEU.md'" "type="button">HEU</button>
+<button onclick="location.href='/pages/frameworks/IFO.md'" "type="button">IFO</button>
+<button onclick="location.href='/pages/frameworks/IFR.md'" "type="button">IFR</button>
+<button onclick="location.href='/pages/frameworks/IFT.md'" "type="button">IFT</button>
+<button onclick="location.href='/pages/frameworks/IFU.md'" "type="button">IFU</button>
+<button onclick="location.href='/pages/frameworks/IFW.md'" "type="button">IFW</button>
+<button onclick="location.href='/pages/frameworks/IFY.md'" "type="button">IFY</button>
+<button onclick="location.href='/pages/frameworks/IHW.md'" "type="button">IHW</button>
+<button onclick="location.href='/pages/frameworks/IMF.md'" "type="button">IMF</button>
+<button onclick="location.href='/pages/frameworks/IRN.md'" "type="button">IRN</button>
+<button onclick="location.href='/pages/frameworks/IRR.md'" "type="button">IRR</button>
+<button onclick="location.href='/pages/frameworks/IRY.md'" "type="button">IRY</button>
+<button onclick="location.href='/pages/frameworks/ISV.md'" "type="button">ISV</button>
+<button onclick="location.href='/pages/frameworks/ITE.md'" "type="button">ITE</button>
+<button onclick="location.href='/pages/frameworks/ITG.md'" "type="button">ITG</button>
+<button onclick="location.href='/pages/frameworks/ITH.md'" "type="button">ITH</button>
+<button onclick="location.href='/pages/frameworks/ITR.md'" "type="button">ITR</button>
+<button onclick="location.href='/pages/frameworks/ITT.md'" "type="button">ITT</button>
+<button onclick="location.href='/pages/frameworks/ITV.md'" "type="button">ITV</button>
+<button onclick="location.href='/pages/frameworks/ITW.md'" "type="button">ITW</button>
+<button onclick="location.href='/pages/frameworks/IWR.md'" "type="button">IWR</button>
+<button onclick="location.href='/pages/frameworks/IWS.md'" "type="button">IWS</button>
+<button onclick="location.href='/pages/frameworks/IWV.md'" "type="button">IWV</button>
+<button onclick="location.href='/pages/frameworks/IWW.md'" "type="button">IWW</button>
+<button onclick="location.href='/pages/frameworks/JBW.md'" "type="button">JBW</button>
+<button onclick="location.href='/pages/frameworks/JNT.md'" "type="button">JNT</button>
+<button onclick="location.href='/pages/frameworks/JOZ.md'" "type="button">JOZ</button>
+<button onclick="location.href='/pages/frameworks/JRY.md'" "type="button">JRY</button>
+<button onclick="location.href='/pages/frameworks/JSN.md'" "type="button">JSN</button>
+<button onclick="location.href='/pages/frameworks/JSR.md'" "type="button">JSR</button>
+<button onclick="location.href='/pages/frameworks/JST.md'" "type="button">JST</button>
+<button onclick="location.href='/pages/frameworks/JSW.md'" "type="button">JSW</button>
+<button onclick="location.href='/pages/frameworks/KFI.md'" "type="button">KFI</button>
+<button onclick="location.href='/pages/frameworks/LAU.md'" "type="button">LAU</button>
+<button onclick="location.href='/pages/frameworks/LEV.md'" "type="button">LEV</button>
+<button onclick="location.href='/pages/frameworks/LIO.md'" "type="button">LIO</button>
+<button onclick="location.href='/pages/frameworks/LIT.md'" "type="button">LIT</button>
+<button onclick="location.href='/pages/frameworks/LOS.md'" "type="button">LOS</button>
+<button onclick="location.href='/pages/frameworks/LOV.md'" "type="button">LOV</button>
+<button onclick="location.href='/pages/frameworks/LTA.md'" "type="button">LTA</button>
+<button onclick="location.href='/pages/frameworks/LTF.md'" "type="button">LTF</button>
+<button onclick="location.href='/pages/frameworks/LTJ.md'" "type="button">LTJ</button>
+<button onclick="location.href='/pages/frameworks/LTL.md'" "type="button">LTL</button>
+<button onclick="location.href='/pages/frameworks/LTN.md'" "type="button">LTN</button>
+<button onclick="location.href='/pages/frameworks/MAR.md'" "type="button">MAR</button>
+<button onclick="location.href='/pages/frameworks/MAZ.md'" "type="button">MAZ</button>
+<button onclick="location.href='/pages/frameworks/MEI.md'" "type="button">MEI</button>
+<button onclick="location.href='/pages/frameworks/MEL.md'" "type="button">MEL</button>
+<button onclick="location.href='/pages/frameworks/MEP.md'" "type="button">MEP</button>
+<button onclick="location.href='/pages/frameworks/MER.md'" "type="button">MER</button>
+<button onclick="location.href='/pages/frameworks/MFI.md'" "type="button">MFI</button>
+<button onclick="location.href='/pages/frameworks/MFS.md'" "type="button">MFS</button>
+<button onclick="location.href='/pages/frameworks/MON.md'" "type="button">MON</button>
+<button onclick="location.href='/pages/frameworks/MOR.md'" "type="button">MOR</button>
+<button onclick="location.href='/pages/frameworks/MOZ.md'" "type="button">MOZ</button>
+<button onclick="location.href='/pages/frameworks/MRT.md'" "type="button">MRT</button>
+<button onclick="location.href='/pages/frameworks/MSE.md'" "type="button">MSE</button>
+<button onclick="location.href='/pages/frameworks/MSO.md'" "type="button">MSO</button>
+<button onclick="location.href='/pages/frameworks/MTF.md'" "type="button">MTF</button>
+<button onclick="location.href='/pages/frameworks/MTN.md'" "type="button">MTN</button>
+<button onclick="location.href='/pages/frameworks/MTT.md'" "type="button">MTT</button>
+<button onclick="location.href='/pages/frameworks/MTW.md'" "type="button">MTW</button>
+<button onclick="location.href='/pages/frameworks/MVY.md'" "type="button">MVY</button>
+<button onclick="location.href='/pages/frameworks/MWF.md'" "type="button">MWF</button>
+<button onclick="location.href='/pages/frameworks/MWW.md'" "type="button">MWW</button>
+<button onclick="location.href='/pages/frameworks/NAB.md'" "type="button">NAB</button>
+<button onclick="location.href='/pages/frameworks/NAT.md'" "type="button">NAT</button>
+<button onclick="location.href='/pages/frameworks/NES.md'" "type="button">NES</button>
+<button onclick="location.href='/pages/frameworks/NON.md'" "type="button">NON</button>
+<button onclick="location.href='/pages/frameworks/NPO.md'" "type="button">NPO</button>
+<button onclick="location.href='/pages/frameworks/NPT.md'" "type="button">NPT</button>
+<button onclick="location.href='/pages/frameworks/NSI.md'" "type="button">NSI</button>
+<button onclick="location.href='/pages/frameworks/OBW.md'" "type="button">OBW</button>
+<button onclick="location.href='/pages/frameworks/OFF.md'" "type="button">OFF</button>
+<button onclick="location.href='/pages/frameworks/OKO.md'" "type="button">OKO</button>
+<button onclick="location.href='/pages/frameworks/OSI.md'" "type="button">OSI</button>
+<button onclick="location.href='/pages/frameworks/OSO.md'" "type="button">OSO</button>
+<button onclick="location.href='/pages/frameworks/OWE.md'" "type="button">OWE</button>
+<button onclick="location.href='/pages/frameworks/PAR.md'" "type="button">PAR</button>
+<button onclick="location.href='/pages/frameworks/PAU.md'" "type="button">PAU</button>
+<button onclick="location.href='/pages/frameworks/PCR.md'" "type="button">PCR</button>
+<button onclick="location.href='/pages/frameworks/PHI.md'" "type="button">PHI</button>
+<button onclick="location.href='/pages/frameworks/PON.md'" "type="button">PON</button>
+<button onclick="location.href='/pages/frameworks/POR.md'" "type="button">POR</button>
+<button onclick="location.href='/pages/frameworks/POS.md'" "type="button">POS</button>
+<button onclick="location.href='/pages/frameworks/PSI.md'" "type="button">PSI</button>
+<button onclick="location.href='/pages/frameworks/PUN.md'" "type="button">PUN</button>
+<button onclick="location.href='/pages/frameworks/PWN.md'" "type="button">PWN</button>
+<button onclick="location.href='/pages/frameworks/PWO.md'" "type="button">PWO</button>
+<button onclick="location.href='/pages/frameworks/PWW.md'" "type="button">PWW</button>
+<button onclick="location.href='/pages/frameworks/RHO.md'" "type="button">RHO</button>
+<button onclick="location.href='/pages/frameworks/RON.md'" "type="button">RON</button>
+<button onclick="location.href='/pages/frameworks/RRO.md'" "type="button">RRO</button>
+<button onclick="location.href='/pages/frameworks/RSN.md'" "type="button">RSN</button>
+<button onclick="location.href='/pages/frameworks/RTE.md'" "type="button">RTE</button>
+<button onclick="location.href='/pages/frameworks/RTH.md'" "type="button">RTH</button>
+<button onclick="location.href='/pages/frameworks/RUT.md'" "type="button">RUT</button>
+<button onclick="location.href='/pages/frameworks/RWR.md'" "type="button">RWR</button>
+<button onclick="location.href='/pages/frameworks/RWY.md'" "type="button">RWY</button>
+<button onclick="location.href='/pages/frameworks/SAF.md'" "type="button">SAF</button>
+<button onclick="location.href='/pages/frameworks/SAO.md'" "type="button">SAO</button>
+<button onclick="location.href='/pages/frameworks/SAS.md'" "type="button">SAS</button>
+<button onclick="location.href='/pages/frameworks/SAT.md'" "type="button">SAT</button>
+<button onclick="location.href='/pages/frameworks/SAV.md'" "type="button">SAV</button>
+<button onclick="location.href='/pages/frameworks/SBE.md'" "type="button">SBE</button>
+<button onclick="location.href='/pages/frameworks/SBN.md'" "type="button">SBN</button>
+<button onclick="location.href='/pages/frameworks/SBS.md'" "type="button">SBS</button>
+<button onclick="location.href='/pages/frameworks/SBT.md'" "type="button">SBT</button>
+<button onclick="location.href='/pages/frameworks/SEW.md'" "type="button">SEW</button>
+<button onclick="location.href='/pages/frameworks/SFE.md'" "type="button">SFE</button>
+<button onclick="location.href='/pages/frameworks/SFF.md'" "type="button">SFF</button>
+<button onclick="location.href='/pages/frameworks/SFG.md'" "type="button">SFG</button>
+<button onclick="location.href='/pages/frameworks/SFH.md'" "type="button">SFH</button>
+<button onclick="location.href='/pages/frameworks/SFN.md'" "type="button">SFN</button>
+<button onclick="location.href='/pages/frameworks/SFO.md'" "type="button">SFO</button>
+<button onclick="location.href='/pages/frameworks/SFS.md'" "type="button">SFS</button>
+<button onclick="location.href='/pages/frameworks/SFW.md'" "type="button">SFW</button>
+<button onclick="location.href='/pages/frameworks/SGT.md'" "type="button">SGT</button>
+<button onclick="location.href='/pages/frameworks/SIV.md'" "type="button">SIV</button>
+<button onclick="location.href='/pages/frameworks/SOD.md'" "type="button">SOD</button>
+<button onclick="location.href='/pages/frameworks/SOF.md'" "type="button">SOF</button>
+<button onclick="location.href='/pages/frameworks/SOR.md'" "type="button">SOR</button>
+<button onclick="location.href='/pages/frameworks/SOS.md'" "type="button">SOS</button>
+<button onclick="location.href='/pages/frameworks/SOV.md'" "type="button">SOV</button>
+<button onclick="location.href='/pages/frameworks/SSF.md'" "type="button">SSF</button>
+<button onclick="location.href='/pages/frameworks/SSY.md'" "type="button">SSY</button>
+<button onclick="location.href='/pages/frameworks/STF.md'" "type="button">STF</button>
+<button onclick="location.href='/pages/frameworks/STI.md'" "type="button">STI</button>
+<button onclick="location.href='/pages/frameworks/STT.md'" "type="button">STT</button>
+<button onclick="location.href='/pages/frameworks/STW.md'" "type="button">STW</button>
+<button onclick="location.href='/pages/frameworks/SVR.md'" "type="button">SVR</button>
+<button onclick="location.href='/pages/frameworks/SVV.md'" "type="button">SVV</button>
+<button onclick="location.href='/pages/frameworks/SWY.md'" "type="button">SWY</button>
+<button onclick="location.href='/pages/frameworks/SZR.md'" "type="button">SZR</button>
+<button onclick="location.href='/pages/frameworks/TER.md'" "type="button">TER</button>
+<button onclick="location.href='/pages/frameworks/THO.md'" "type="button">THO</button>
+<button onclick="location.href='/pages/frameworks/TOL.md'" "type="button">TOL</button>
+<button onclick="location.href='/pages/frameworks/TON.md'" "type="button">TON</button>
+<button onclick="location.href='/pages/frameworks/TSC.md'" "type="button">TSC</button>
+<button onclick="location.href='/pages/frameworks/TUN.md'" "type="button">TUN</button>
+<button onclick="location.href='/pages/frameworks/UEI.md'" "type="button">UEI</button>
+<button onclick="location.href='/pages/frameworks/UFI.md'" "type="button">UFI</button>
+<button onclick="location.href='/pages/frameworks/UOS.md'" "type="button">UOS</button>
+<button onclick="location.href='/pages/frameworks/UOV.md'" "type="button">UOV</button>
+<button onclick="location.href='/pages/frameworks/UOZ.md'" "type="button">UOZ</button>
+<button onclick="location.href='/pages/frameworks/USI.md'" "type="button">USI</button>
+<button onclick="location.href='/pages/frameworks/UTL.md'" "type="button">UTL</button>
+<button onclick="location.href='/pages/frameworks/UWY.md'" "type="button">UWY</button>
+<button onclick="location.href='/pages/frameworks/VET.md'" "type="button">VET</button>
+<button onclick="location.href='/pages/frameworks/VFI.md'" "type="button">VFI</button>
+<button onclick="location.href='/pages/frameworks/VNI.md'" "type="button">VNI</button>
+<button onclick="location.href='/pages/frameworks/VSV.md'" "type="button">VSV</button>
+<button onclick="location.href='/pages/frameworks/WEI.md'" "type="button">WEI</button>
+<button onclick="location.href='/pages/frameworks/WEN.md'" "type="button">WEN</button>
+<button onclick="location.href='/pages/frameworks/YFI.md'" "type="button">YFI</button>
+<button onclick="location.href='/pages/frameworks/YUG.md'" "type="button">YUG</button>
+<button onclick="location.href='/pages/frameworks/ZON.md'" "type="button">ZON</button>
+<button onclick="location.href='/pages/frameworks/BEA.md'" "type="button">BEA</button>
+<button onclick="location.href='/pages/frameworks/CTH.md'" "type="button">CTH</button>
+<button onclick="location.href='/pages/frameworks/EWT.md'" "type="button">EWT</button>
+<button onclick="location.href='/pages/frameworks/ITN.md'" "type="button">ITN</button>
+<button onclick="location.href='/pages/frameworks/MRE.md'" "type="button">MRE</button>
+<button onclick="location.href='/pages/frameworks/PCS.md'" "type="button">PCS</button>
+<button onclick="location.href='/pages/frameworks/SFV.md'" "type="button">SFV</button>
+<button onclick="location.href='/pages/frameworks/SSO.md'" "type="button">SSO</button>
+<button onclick="location.href='/pages/frameworks/STO.md'" "type="button">STO</button>
+<button onclick="location.href='/pages/frameworks/SVY.md'" "type="button">SVY</button>
+<button onclick="location.href='/pages/frameworks/UOE.md'" "type="button">UOE</button>
