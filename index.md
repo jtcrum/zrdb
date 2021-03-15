@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Info](/pages/info.md) [Frameworks](/pages/Frameworks.md)
+[Info](/pages/info.md) [Frameworks](/pages/frameworks.md)
 
 You can use the [editor on GitHub](https://github.com/jtcrum/zrdb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
