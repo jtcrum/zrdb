@@ -4,7 +4,7 @@
 
 # About the Zeolite Ring Database
 ## Nomenclature
-Rings are described by the number of tetrahedral (T-) sites they contain. The image below shows a ring containing 5 T-sites, and is denoted as a 5-membered ring (5-MR). The number of oxygen (O-) site and T-sites contained in a ring are equal. So our 5-MR also contains 5 O-sites. 
+Rings are described by the number of tetrahedral (T-) sites they contain. The image below shows a ring containing 5 T-sites (yellow), and is denoted as a 5-membered ring (5-MR). The number of oxygen (O-) site and T-sites contained in a ring are equal. So our 5-MR also contains 5 O-sites (red). 
 
 ![5-MR](figures/5mr.png)
 
