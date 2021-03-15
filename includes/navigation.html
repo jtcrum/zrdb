@@ -1,0 +1,47 @@
+<section class="navbar">
+  <div class="navbar-header">
+    <nav class="navbar navbar-toggleable-sm navbar-light">
+      <button class="navbar-toggler hidden-md-up" type="button" data-toggle="collapse" data-target="#collapsingNavbar1">
+        ☰
+      </button>
+      <div class="collapse navbar-collapse" id="collapsingNavbar1">
+        <ul class="nav navbar-nav mr-auto" >
+          {% for entry in site.data.navigation %}
+
+            {% if entry.url == "/" %}
+              {% if page.url == entry.url %}
+                {% assign class = 'active' %}
+                {% assign output = 'Home'}
+              {% else}
+                {% assign class = null %}
+              {% endif %}
+            {% else %}
+              {% if page.url contains entry.url %}
+                {% assign class = 'active' %}
+                {% else %}
+                  <!-- We have to declare it 'null' to ensure it doesn't propagate. -->
+                  {% assign class = null %}
+              {% endif %}
+            {% endif %}
+
+            {% assign sublinks = entry.sublinks %}
+            {% if sublinks %}
+              <li class="nav-item dropdown {{ class }}">
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/Group">{{entry.title}}</a>
+                <div class="dropdown-menu">
+                  {% for sublink in sublinks %}
+                    <a class="dropdown-item" href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
+                  {% endfor %}
+                </div>
+              </li>
+
+            {% else %}
+              <li class="nav-item {{ class }}" ><a class="nav-link" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+    </nav>
+  </div>
+  {{}}
+</section>

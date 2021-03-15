@@ -1,0 +1,8 @@
+- title: Home
+  url: /
+
+- title: Frameworks
+  url: /pages/frameworks.md
+
+- title: ZSE
+  url: https://github.com/jtcrum/zse
