@@ -12,7 +12,7 @@ Rings are described by the number of tetrahedral (T-) sites they contain. The im
 Here we consider valid rings to be cycles through a zeolite framework for which no path exists that can decompose the cycle into smaller cycles. This rule is generally accepted, and was presented by Goetzke, K. and Klein, H.-J. [here](https://linkinghub.elsevier.com/retrieve/pii/002230939190145V).
 
 ## Zeolite Ring Tools
-All the rings presented here were found and analyzed using Zeolite Simulation Environment (ZSE), and open source Python package available [here](https://github.com/jtcrum/zse). 
+All the rings presented here were found and analyzed using Zeolite Simulation Environment (ZSE), an open source Python package available [here](https://github.com/jtcrum/zse). 
 
 Another software tool for finding zeolite rings is the Fortran code by Sastre, G. and Gale, J.: [zeoTsites](http://www.upv.es/~gsastre/zeotsites.html).
 
