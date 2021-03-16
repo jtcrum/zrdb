@@ -1,7 +1,5 @@
 |[Home](/zrdb)| [Frameworks](/zrdb/pages/frameworks)| [ZSE](https://github.com/jtcrum/zse){:target="_blank" rel="noopener"}|
 
-|:---:|:---:|:---:|
-
 - - - 
 <style>
 .button {
