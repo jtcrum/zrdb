@@ -42,12 +42,12 @@ O1-T1-O2-T1-O1-T1-O2-T1
 <table width="100%">
   <tr>
 	<th> Ring </th>
-	<th> Max <br>Cross T <br>Distance </th>
-	<th> Min <br>Cross T <br>Distance </th>
-	<th> Average <br>Cross T <br>Distance </th>
-	<th> Max <br>T-O-T <br>Angle </th>
-	<th> Min <br>T-O-T <br>Angle </th>
-	<th> Average <br>T-O-T <br>Angle </th>
+	<th width="12.85%"> Max <br>Cross T <br>Distance </th>
+	<th width="12.85%"> Min <br>Cross T <br>Distance </th>
+	<th width="12.85%"> Average <br>Cross T <br>Distance </th>
+	<th width="12.85%"> Max <br>T-O-T <br>Angle </th>
+	<th width="12.85%"> Min <br>T-O-T <br>Angle </th>
+	<th width="12.85%"> Average <br>T-O-T <br>Angle </th>
   </tr>
   <tr>
 	<td> 6-MR </td>
