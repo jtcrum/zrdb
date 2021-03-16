@@ -44,7 +44,7 @@ O1-T1-O2-T1-O1-T1-O2-T1
 	<th> Ring </th>
 	<th> Max <br>Cross T <br>Distance </th>
 	<th> Min <br>Cross T <br>Distance </th>
-	<th> Average Cross T Distance </th>
+	<th> Average <br>Cross T <br>Distance </th>
 	<th> Max <br>T-O-T <br>Angle </th>
 	<th> Min <br>T-O-T <br>Angle </th>
 	<th> Average <br>T-O-T <br>Angle </th>
