@@ -38,7 +38,7 @@ O1-T1-O4-T1-O3-T1-O4-T1
 **4-MR**  
 O1-T1-O2-T1-O1-T1-O2-T1
 
-<table width="70%">
+<table width="100%">
   <tr>
 	<th> Ring </th>
 	<th> Max Cross T Distance </th>
@@ -51,12 +51,29 @@ O1-T1-O2-T1-O1-T1-O2-T1
   <tr>
 	<td> 6-MR </td>
 	<td> </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
   </tr>
   <tr>
 	<td> 4-MR </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
   </tr>
   <tr>
 	<td> 4-MR </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
   </tr>
 </table>
 
