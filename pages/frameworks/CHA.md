@@ -2,6 +2,7 @@
 
 ## O-Site Rings
 |O-Site|Rings|
+
 |---|:--|
 |O1|6-4-4|
 |O2|12-8-8-4|
