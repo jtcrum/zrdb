@@ -4,7 +4,7 @@
 
 ## O-Site Rings
 
-<table style="width:70%">
+<table style="width:70%" class="center">
   <tr>
     <th>O-Site</th>
     <th>Rings</th> 
