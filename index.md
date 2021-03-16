@@ -1,6 +1,6 @@
-[Home](./index.md) [Frameworks](/pages/frameworks.md) [ZSE](https://github.com/jtcrum/zse){:target="_blank" rel="noopener"}
+|[Home](/zrdb)| [Frameworks](/zrdb/pages/frameworks)| [ZSE](https://github.com/jtcrum/zse){:target="_blank" rel="noopener"}|
 
-- - -
+- - - 
 
 # About the Zeolite Ring Database
 ## Nomenclature
