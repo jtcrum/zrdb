@@ -27,8 +27,8 @@
   </tr>
 </table>
 
-## Ring Compositions
-### O1
+## Ring Analysis
+### O1 Ring Compositions
 **6-MR**  
 O1-T1-O3-T1-O1-T1-O3-T1-O1-T1-O3-T1
 
@@ -38,6 +38,7 @@ O1-T1-O4-T1-O3-T1-O4-T1
 **4-MR**  
 O1-T1-O2-T1-O1-T1-O2-T1
 
+### O1 Ring Geometry
 <table width="100%">
   <tr>
 	<th> Ring </th>
@@ -77,7 +78,7 @@ O1-T1-O2-T1-O1-T1-O2-T1
   </tr>
 </table>
 
-### O2
+### O2 Ring Compositions
 **12-MR**  
 O2-T1-O3-T1-O2-T1-O3-T1-O2-T1-O3-T1-O2-T1-O3-T1-O2-T1-O3-T1-O2-T1-O3-T1
 
@@ -90,7 +91,9 @@ O2-T1-O3-T1-O2-T1-O4-T1-O2-T1-O3-T1-O2-T1-O4-T1
 **4-MR**  
 O2-T1-O1-T1-O2-T1-O1-T1
 
-### O3
+### O2 Ring Geometry
+
+### O3 Ring Compositions
 **12-MR**  
 O3-T1-O2-T1-O3-T1-O2-T1-O3-T1-O2-T1-O3-T1-O2-T1-O3-T1-O2-T1-O3-T1-O2-T1
 
@@ -103,7 +106,9 @@ O3-T1-O1-T1-O3-T1-O1-T1-O3-T1-O1-T1
 **4-MR**  
 O3-T1-O4-T1-O1-T1-O4-T1
 
-### O4
+### O3 Ring Geometry
+
+### O4 Ring Compositions
 **8-MR**  
 O4-T1-O2-T1-O3-T1-O2-T1-O4-T1-O2-T1-O3-T1-O2-T1
 
@@ -112,6 +117,8 @@ O4-T1-O1-T1-O4-T1-O3-T1
 
 **4-MR**  
 O4-T1-O3-T1-O4-T1-O1-T1
+
+### O4 Ring Geometry
 
 ## T-Site Rings
 
