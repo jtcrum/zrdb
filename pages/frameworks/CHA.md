@@ -24,3 +24,9 @@
 	<td>8-4-4</td>
   </tr>
 </table>
+
+## Ring Compositions
+### O1
+**6MR** O1-T1-O3-T1-O1-T1-O3-T1-O1-T1-O3-T1
+**4MR** O1-T1-O4-T1-O3-T1-O4-T1
+**4MR** O1-T1-O2-T1-O1-T1-O2-T1
