@@ -2,10 +2,25 @@
 
 ## O-Site Rings
 
-|O-Site|Rings|
-
-|:---|:--:|
-|O1|6-4-4|
-|O2|12-8-8-4|
-|O3|12-8-6-4|
-|04|8-4-4|
+<table style="width:70%">
+  <tr>
+    <th>O-Site</th>
+    <th>Rings</th> 
+  </tr>
+  <tr>
+    <td>O1</td>
+    <td>6-4-4</td> 
+  </tr>
+  <tr>
+    <td>O2</td>
+    <td>12-8-8-4</td> 
+  </tr>
+  <tr>
+	<td>O3</td>
+	<td>12-8-6-4</td>
+  </tr>
+  <tr>
+	<td>O4</td>
+	<td>8-4-4</td>
+  </tr>
+</table>
