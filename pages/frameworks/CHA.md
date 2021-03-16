@@ -38,6 +38,28 @@ O1-T1-O4-T1-O3-T1-O4-T1
 **4-MR**  
 O1-T1-O2-T1-O1-T1-O2-T1
 
+<table width="70%">
+  <tr>
+	<th> Ring </th>
+	<th> Max Cross T Distance </th>
+	<th> Min Cross T Distance </th>
+	<th> Average Cross T Distance </th>
+	<th> Max T-O-T Angle </th>
+	<th> Min T-O-T Angle </th>
+	<th> Average T-O-T Angle </th>
+  </tr>
+  <tr>
+	<td> 6-MR </td>
+	<td> </td>
+  </tr>
+  <tr>
+	<td> 4-MR </td>
+  </tr>
+  <tr>
+	<td> 4-MR </td>
+  </tr>
+</table>
+
 ### O2
 **12-MR**  
 O2-T1-O3-T1-O2-T1-O3-T1-O2-T1-O3-T1-O2-T1-O3-T1-O2-T1-O3-T1-O2-T1-O3-T1
